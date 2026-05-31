@@ -5,3 +5,5 @@ numpy
 faiss-cpu
 pyarrow
 python-dotenv
+flask
+gunicorn
