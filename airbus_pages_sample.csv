@@ -1,0 +1,1845 @@
+page,text
+1,"REFERENCE: ABY A320/A321 FCOM
+ISSUE DATE: 30-Dec-24
+A320/A321
+The content of this document is the property of Airbus. It is supplied in confidence and commercial security 
+on its contents must be maintained. It must not be used for any purpose other than that for which it is 
+supplied, nor may any information contained in it be disclosed to unauthorized persons. It must not be 
+reproduced in whole or in part without permission in writing from the owners of the copyright.
+© AIRBUS 2005. All rights reserved.
+AIRBUS S.A.S
+CUSTOMER SERVICE DIRECTORATE
+31707 BLAGNAC CEDEX
+FRANCE
+FLIGHT CREW OPERATING MANUAL
+"
+2,"Intentionally left blank
+"
+3,"PRELIMINARY PAGES
+OVERALL TABLE OF CONTENTS
+A320/A321
+FLIGHT CREW OPERATING MANUAL
+ABY A320/A321
+PLP-TOC P 1/4
+FCOM
+30-Dec-24
+PLP 
+Preliminary Pages
+PLP-TP 
+Title Page
+PLP-SOH 
+Summary of Highlights
+PLP-TL 
+Transmittal Letter
+PLP-LESS 
+List of Effective Sections
+PLP-LAMDU 
+List of Airline Modified Documentary Units
+PLP-LETDU 
+List of Effective Temporary Document Units
+PLP-AAT 
+Aircraft Allocation Table
+PLP-LOM 
+List of Modifications
+GEN 
+General Information
+DSC 
+Aircraft Systems
+DSC-TOC 
+Table of Contents
+DSC-20 
+Aircraft General
+DSC-21 
+Air Conditioning / Pressurization / Ventilation
+DSC-22_10 
+Auto Flight - General
+DSC-22_20 
+Auto Flight - Flight Management
+DSC-22_30 
+Auto Flight - Flight Guidance
+DSC-22_40 
+Auto Flight - Flight Augmentation
+DSC-22_45 
+Auto Flight - AOC Functions
+DSC-22_46 
+Auto Flight - Print Interface
+DSC-23 
+Communications
+DSC-24 
+Electrical
+DSC-25 
+Equipment
+DSC-26 
+Fire Protection
+DSC-27 
+Flight Controls
+DSC-28 
+Fuel
+DSC-29 
+Hydraulic
+DSC-30 
+Ice and Rain Protection
+DSC-31 
+Indicating/Recording Systems
+DSC-32 
+Landing Gear
+DSC-33 
+Lights
+DSC-34-NAV 
+Navigation
+"
+4,"PRELIMINARY PAGES
+OVERALL TABLE OF CONTENTS
+A320/A321
+FLIGHT CREW OPERATING MANUAL
+ABY A320/A321
+PLP-TOC P 2/4
+FCOM
+30-Dec-24
+DSC-34-SURV Surveillance
+DSC-35 
+Oxygen
+DSC-36 
+Pneumatic
+DSC-38 
+Water / Waste
+DSC-45 
+Maintenance System
+DSC-46 
+Information Systems
+DSC-49 
+APU
+DSC-52 
+Doors
+DSC-56 
+Cockpit Windows
+DSC-70 
+Engines
+PRO 
+Procedures
+PRO-TOC 
+Table of Contents
+PRO-ABN 
+Abnormal and Emergency Procedures
+PRO-NOR 
+Normal Procedures
+PRO-SPO 
+Special Operations
+LIM 
+Limitations
+LIM-TOC 
+Table of Contents
+LIM-INT 
+Introduction
+LIM-AG 
+Aircraft General
+LIM-AIR 
+Air Bleed/Cond/Press/Vent
+LIM-AFS 
+Auto Flight System
+LIM-APU 
+Auxiliary Power Unit
+LIM-BACF 
+Braking Action Computation Function
+LIM-CAB 
+Cabin Systems
+LIM-COM 
+Communication
+LIM-ENG 
+Engines
+LIM-F_CTL 
+Flight Controls
+LIM-FUEL 
+Fuel
+LIM-ICE_RAIN Ice and Rain Protection
+LIM-LG 
+Landing Gear
+LIM-NAV 
+Navigation
+LIM-OXY 
+Oxygen
+"
+5,"PRELIMINARY PAGES
+OVERALL TABLE OF CONTENTS
+A320/A321
+FLIGHT CREW OPERATING MANUAL
+ABY A320/A321
+PLP-TOC P 3/4
+FCOM
+30-Dec-24
+LIM-ROW_ROP ROW/ROP
+LIM-SURV 
+Surveillance
+TAB 
+Temporary Abnormal Behaviors
+EFB 
+Performance (EFB)
+EFB-TOC 
+Table of Contents
+EFB-LOD 
+Loading
+EFB-TOF 
+Takeoff
+EFB-IFT 
+In-Flight
+EFB-LDG 
+Landing
+"
+6,"PRELIMINARY PAGES
+OVERALL TABLE OF CONTENTS
+A320/A321
+FLIGHT CREW OPERATING MANUAL
+ABY A320/A321
+PLP-TOC P 4/4
+FCOM
+30-Dec-24
+Intentionally left blank
+"
+7,"PRELIMINARY PAGES
+SUMMARY OF HIGHLIGHTS
+A320/A321
+FLIGHT CREW OPERATING MANUAL
+ABY A320/A321
+PLP-SOH P 1/48
+FCOM
+30-Dec-24
+Section
+Title
+Ref
+Reason
+GEN
+FANS
+H1
+New information
+GEN
+FLS Function in the FMS
+H2
+New information
+GEN
+hPFD
+H3
+New information
+GEN
+TOS2
+H4
+New information
+GEN
+1 ADF
+H5
+Deleted DU invariant (00020299)
+GEN
+2 ADF
+H6
+Deleted DU invariant (00020300)
+GEN
+LAT DEV SCALE pb
+H7
+Deleted DU invariant (00016596)
+GEN
+T3CAS
+H8
+Deleted DU invariant (00016587)
+GEN
+1 ADF
+H9
+Deleted DU solution (00020299.0001001)
+H10
+Deleted DU solution (00020299.0002001)
+GEN
+2 ADF
+H11
+Deleted DU solution (00020300.0001001)
+H12
+Deleted DU solution (00020300.0002001)
+GEN
+LAT DEV SCALE pb
+H13
+Deleted DU solution (00016596.0001001)
+GEN
+T3CAS
+H14
+Deleted DU solution (00016587.0001001)
+H15
+Deleted DU solution (00016587.0002001)
+GEN
+FOURTH occupant ACP
+H16
+Change of item from ""Fourth Occupant 
+Folding Seat"" to ""Fourth occupant ACP"" 
+to indicate that this item is related to the 
+fourth ACP.
+H17
+Change of system from ""EQUIPMENT"" to 
+""COM"" to indicate that the fourth 
+occupant ACP is related to 
+communication system.
+H18
+Addition of the Fourth.
+H19
+Addition of the ACP 4 item to indicate that 
+this item is related to the ACP of the 
+fourth occupant.
+GEN
+4th Occupant Folding Seat
+H20
+Deleted DU solution (00015896.0002001)
+GEN
+ACT
+H21
+H21
+Addition of the ACT 1 and ACT 2.
+GEN
+3 ACTs
+H22
+H22
+Addition of the ACT 1 and ACT 2.
+GEN
+1 ADF
+H23
+New information
+GEN
+2 ADF
+H24
+New information
+GEN
+AFT Cargo Heating
+H25
+H25
+Addition of:
+AFT ISOL VALVE
+AFT TEMPERATURE SELECTOR.
+H26
+H26
+Addition of:
+AFT ISOL VALVE
+AFT TEMPERATURE SELECTOR.
+"
+8,"PRELIMINARY PAGES
+SUMMARY OF HIGHLIGHTS
+A320/A321
+FLIGHT CREW OPERATING MANUAL
+ABY A320/A321
+PLP-SOH P 2/48
+FCOM
+30-Dec-24
+GEN
+AFT Cargo Ventilation
+H27
+Addition of the CARGO ISO VALVES.
+H28
+Addition of the CARGO ISO VALVES.
+GEN
+Brake Fans
+H29
+Addition of the line ""BRK FAN pb-sw"".
+H30
+Deleted DU solution (00016526.0001001)
+GEN
+Cockpit Power Outlet
+H31
+Addition of the Power Outlets.
+GEN
+Data Loading Selector Unit
+H32
+New information
+GEN
+Display of Delta ISA
+H33
+New information
+GEN
+ELT
+H34
+Wording enhancement. No technical 
+change.
+GEN
+Enhanced RTA
+H35
+New information
+GEN
+EVAC Panel
+H36
+Layout modification. No technical change.
+H37
+H37
+H37
+Addition of:
+EVAC COMMAND
+EVAC SIGNAL SYSTEM
+EVAC SIGNALS.
+H38
+Correction of a typo error.
+GEN
+Expedite Function
+H39
+H39
+H39
+H39
+H39
+Addition of:
+EXP
+EXP MODE
+EXPED
+EXPEDITE
+EXPEDITE CLIMB.
+GEN
+FANS C
+H40
+New information
+GEN
+FLS
+H41
+New information
+GEN
+FLS/FINAL APP - Coexistence
+H42
+New information
+GEN
+FMS Crossload
+H43
+Addition of ""Crossload"".
+GEN
+FWD Cargo Heating
+H44
+Addition of the Forward cargo heat 
+controller.
+GEN
+FWD Cargo Smoke Detector
+H45
+Addition of the FWD CRG DET FAULT.
+GEN
+FWD Cargo Ventilation
+H46
+H46
+Addition of:
+CARGO ISO VALVES
+Forward cargo isol valves.
+GEN
+HF System
+H47
+H47
+H47
+Addition of :
+HF COMMUNICATION SYSTEM
+HF SYSTEMS
+HIGH FREQUENCY (HF).
+GEN
+HF 1
+H48
+Addition of the HF 1.
+GEN
+HF 2
+H49
+Addition of the HF 2.
+GEN
+Polar Navigation Function
+H50
+New information
+GEN
+Print Function
+H51
+New information
+Section
+Title
+Ref
+Reason
+"
+9,"PRELIMINARY PAGES
+SUMMARY OF HIGHLIGHTS
+A320/A321
+FLIGHT CREW OPERATING MANUAL
+ABY A320/A321
+PLP-SOH P 3/48
+FCOM
+30-Dec-24
+GEN
+PWS
+H52
+H52
+H52
+H52
+Addition of:
+WINDSHEAR / PWS
+WINDSHEAR/PWS
+WINDSHEAR DETECTION FUNCTION
+PREDICTIVE WINDSHEAR.
+GEN
+QFE Baro Setting
+H53
+Addition of ""QFE"".
+H54
+Addition of ""QFE"".
+GEN
+RAAS
+H55
+Addition of ""Runway Awareness and 
+Advisory System"".
+GEN
+Steep Approach Capability
+H56
+Addition of ""Steep Approach Capability 
+and Landing Function"".
+GEN
+T2CAS or T3CAS
+H57
+Addition of the T3CAS system.
+H58
+Addition of the AVOID TERRAIN aural 
+alert.
+H59
+Update of the layer 1 to refer to T2CAS or 
+T3CAS.
+GEN
+T2CAS
+H60
+Addition of the AVOID TERRAIN aural 
+alert.
+GEN
+T3CAS
+H61
+New information
+GEN
+TAWS Enhanced Function
+H62
+New information
+H63
+New information
+GEN
+TAWS Enhanced Function with Optional 
+Aural Warnings
+H64
+New information
+H65
+New information
+GEN
+TAWS Obstacle Function
+H66
+New information
+H67
+New information
+GEN
+TAWS Obstacle Function on T3CAS
+H68
+New information
+H69
+New information
+GEN
+TAWS Obstacle Function with Optional 
+Aural Warnings
+H70
+New information
+H71
+New information
+GEN
+Third MCDU
+H72
+New information
+GEN
+TOS2
+H73
+Modification of the wording to indicate the 
+installed system.
+H74
+New information
+GEN
+Airbus Copyright & Export Control 
+Classification
+H75
+Addition of the information related to the 
+export control restrictions for engine 
+parameters.
+H76
+Addition of the Intellectual Property title.
+H77
+Update of the title to add the wording 
+""Export Control Classification"".
+Section
+Title
+Ref
+Reason
+"
+10,"PRELIMINARY PAGES
+SUMMARY OF HIGHLIGHTS
+A320/A321
+FLIGHT CREW OPERATING MANUAL
+ABY A320/A321
+PLP-SOH P 4/48
+FCOM
+30-Dec-24
+GEN
+FCOM Use and Organization
+H78
+If Installed replaces Optional Equipment 
+definition.
+GEN
+Abbreviations
+H79
+Addition of the SURF-A abbreviation.
+H80
+Update of the AEVC abbreviation.
+H81
+Addition of the TRAF abbreviation.
+H82
+Addition of the CSI abbreviation.
+DSC-20-20
+Principal Dimensions
+H83
+New information
+DSC-20-40
+Ground Clearance Diagram
+H84
+New information
+DSC-21-10-10
+General
+H85
+New information
+DSC-21-10-30
+Temperature Regulation
+H86
+New information
+DSC-21-20-30
+Automatic Pressure Control Mode
+H87
+Modification of ABORT mode description 
+in the Automatic Pressure Control Mode 
+in order to comply with the system 
+behavior. 
+DSC-21-20-30
+Pressurization Flight Profile
+H88
+New information
+H89
+Deleted DU solution (00000331.0001001)
+DSC-22_10-10
+Other Flight Crew Interfaces - Electronic 
+Flight Instruments (EFIS)
+H90
+Addition of the if-installed symbol in order 
+to indicate that the ADF is an option.
+DSC-22_10-40-20
+Lateral Control Area
+H91
+New information
+DSC-22_10-40-20
+Vertical Control Area
+H92
+New information
+DSC-22_10-40-50
+Flight Plan Display Colors
+H93
+New information
+DSC-22_10-50-20
+Characteristic Speeds
+H94
+New information
+DSC-22_20-10-10
+Overview
+H95
+Addition of complementary information 
+related to the FMS.
+H96
+New information
+H97
+Moved DU invariant (00010128)
+DSC-22_20
+Other Functions
+H98
+Deleted section (NP00182)
+DSC-22_20
+How to
+H99
+Deleted section (NP04934)
+DSC-22_20
+Overview
+H100
+Moved section (NP02654)
+H101
+Moved section (NP00064)
+H102
+Moved section (NP02726)
+H103
+Moved section (NP04946)
+H104
+Moved section (NP00200)
+H105
+Moved section (NP00201)
+DSC-22_20-10
+Overview
+H106
+Moved section (NP00187)
+DSC-22_20-10-20-30
+Architecture
+H107
+H107
+Addition of the if-installed symbol in order 
+to indicate that the ADF is an option.
+Section
+Title
+Ref
+Reason
+"
+11,"PRELIMINARY PAGES
+SUMMARY OF HIGHLIGHTS
+A320/A321
+FLIGHT CREW OPERATING MANUAL
+ABY A320/A321
+PLP-SOH P 5/48
+FCOM
+30-Dec-24
+DSC-22_20-10-20-30
+Manual Tuning
+H108
+H108
+H108
+H108
+H108
+Layout modification. No technical change.
+H109
+H109
+Addition of the if-installed symbol in order 
+to indicate that the ADF is an option.
+H110
+H110
+Addition of the if-installed symbol in order 
+to indicate that the ADF is an option.
+H111
+H111
+H111
+H111
+H111
+Layout modification. No technical change.
+DSC-22_20-10-30
+Lateral Functions
+H112
+Deleted section (NP00066)
+DSC-22_20-10-30
+Vertical Functions
+H113
+Deleted section (NP00169)
+DSC-22_20-10-30
+Flight Planning
+H114
+Moved section (NP02701)
+H115
+Moved section (NP00167)
+H116
+Moved section (NP00168)
+H117
+Moved section (NP02718)
+H118
+Moved section (NP00173)
+H119
+Moved section (NP00172)
+H120
+Moved section (NP00188)
+DSC-22_20-10-30-12
+Holding Pattern - Hold with Manual 
+Termination (HM)
+H121
+Update of the content to indicate that only 
+two types of holding with manual 
+termination are available.
+H122
+H122
+H122
+H122
+H122
+H122
+H122
+Wording enhancement. No technical 
+change.
+DSC-22_20-10-30-13
+Holding Pattern - Hold with Manual 
+Termination (HM)
+H123
+Update of the content to indicate that only 
+two types of holding with manual 
+termination are available.
+H124
+H124
+H124
+H124
+Wording enhancement. No technical 
+change.
+DSC-22_20-10-30-20
+Flight Phases
+H125
+New information
+Section
+Title
+Ref
+Reason
+"
+12,"PRELIMINARY PAGES
+SUMMARY OF HIGHLIGHTS
+A320/A321
+FLIGHT CREW OPERATING MANUAL
+ABY A320/A321
+PLP-SOH P 6/48
+FCOM
+30-Dec-24
+DSC-22_20-10-30-20
+General
+H126
+Moved DU invariant (00006021)
+DSC-22_20-10-30-20
+Estimated Takeoff Time (ETT)
+H127
+Moved DU invariant (00009523)
+DSC-22_20-10-30-20
+Step Climb/Step Descent
+H128
+Moved DU invariant (00006020)
+DSC-22_20-10-30-23
+Time Constraint/RTA - General
+H129
+New information
+DSC-22_20-10-30-23
+Time Constraint/RTA - Time CSTR/RTA 
+Entry
+H130
+New information
+DSC-22_20-10-30-30
+General
+H131
+New information
+H132
+Moved DU invariant (00000932)
+DSC-22_20-10-30-30
+Diversion to Preplanned Alternate Airport
+H133
+New information
+H134
+Moved DU invariant (00000933)
+DSC-22_20-10-30-30
+En Route Diversion with Several Airports 
+Available
+H135
+New information
+H136
+New information
+H137
+Moved DU invariant (00009508)
+DSC-22_20-10-30-30
+En Route Diversion over Oceanic or 
+Desertic Area
+H138
+New information
+H139
+Moved DU invariant (00009528)
+DSC-22_20-10-30-30
+Diversion Preparation on the Secondary 
+Flight Plan
+H140
+New information
+H141
+Moved DU invariant (00009530)
+DSC-22_20-10-30-30
+Miscellaneous
+H142
+New information
+H143
+Moved DU invariant (00009531)
+DSC-22_20-10-30-30
+Execution of the Diversion
+H144
+New information
+H145
+Moved DU invariant (00009532)
+DSC-22_20-10-30-30
+Diversion to the Alternate Airport
+H146
+New information
+H147
+Moved DU invariant (00009537)
+DSC-22_20-10-30-30
+Using the Secondary Flight Plan Function
+H148
+New information
+H149
+Moved DU invariant (00000935)
+DSC-22_20-10-30-30
+Using New Destination Function
+H150
+New information
+H151
+Moved DU invariant (00000936)
+DSC-22_20-10-30-30
+Equitime Point
+H152
+New information
+H153
+New information
+H154
+Moved DU invariant (00006015)
+DSC-22_20-10-30-30
+Equitime Point Entry
+H155
+New information
+H156
+New information
+H157
+Moved DU invariant (00009536)
+DSC-22_20-10-30-30
+Closest Airports
+H158
+New information
+H159
+New information
+H160
+Moved DU invariant (00006018)
+DSC-22_20-10-40-10
+Descent Profile Optimization (if installed)
+H161
+Moved DU invariant (00019723)
+DSC-22_20-10-60
+General
+H162
+New information
+Section
+Title
+Ref
+Reason
+"
+13,"PRELIMINARY PAGES
+SUMMARY OF HIGHLIGHTS
+A320/A321
+FLIGHT CREW OPERATING MANUAL
+ABY A320/A321
+PLP-SOH P 7/48
+FCOM
+30-Dec-24
+DSC-22_20-10-60
+FLS Beam Computation - General
+H163
+New information
+DSC-22_20-10-60
+FLS Beam Computation - Baro Correction 
+of the FLS Vertical Deviation
+H164
+New information
+DSC-22_20-10-60
+Temperature Correction of the FLS 
+Vertical Deviation
+H165
+New information
+DSC-22_20-10-70-10
+Takeoff Surveillance Function
+H166
+New information
+DSC-22_20-10-70-10
+Liftoff Distance Check
+H167
+New information
+DSC-22_20-10-70-10
+Aircraft Position Check
+H168
+New information
+DSC-22_20-10-70-10
+Associated Alerts
+H169
+New information
+DSC-22_20-10-70-10
+Associated Messages
+H170
+New information
+DSC-22_20-10-70-20
+SURV panel on Overhead Panel
+H171
+New information
+DSC-22_20-10-70-20
+T.O SURV pb-sw
+H172
+New information
+DSC-22_20-10-70-20
+T.O SURV OFF
+H173
+New information
+DSC-22_20-20-10-25
+RADIO NAV Page
+H174
+H174
+H174
+H174
+Addition of the if-installed symbol in order 
+to indicate that the ADF is an option.
+H175
+H175
+H175
+H175
+H175
+H175
+H175
+H175
+H175
+H175
+H175
+H175
+Layout modification. No technical change.
+H176
+H176
+Addition of abbreviation tags in order to 
+comply with the Airbus authoring policy.
+H177
+H177
+Wording enhancement. No technical 
+change.
+DSC-22_20-20-10-25
+Secondary Pages
+H178
+Addition of the description on how to 
+access the ATC REJ INFO page through 
+the [5L] key.
+DSC-22_20-20-10-28
+WIND Pages
+H179
+New information
+DSC-22_20-20-10-28
+PERF Page - PERF Climb
+H180
+New information
+DSC-22_20-20-10-28
+PERF Page - PERF Cruise
+H181
+New information
+DSC-22_20-20-10-28
+PERF Page - PERF Descent
+H182
+New information
+Section
+Title
+Ref
+Reason
+"
+14,"PRELIMINARY PAGES
+SUMMARY OF HIGHLIGHTS
+A320/A321
+FLIGHT CREW OPERATING MANUAL
+ABY A320/A321
+PLP-SOH P 8/48
+FCOM
+30-Dec-24
+DSC-22_20-20-10-28
+RADIO NAV Page
+H183
+H183
+H183
+H183
+H183
+H183
+H183
+Layout modification. No technical change.
+H184
+H184
+H184
+H184
+Addition of the if-installed symbol in order 
+to indicate that the ADF is an option.
+H185
+H185
+Wording enhancement. No technical 
+change.
+H186
+H186
+H186
+H186
+H186
+H186
+H186
+Layout modification. No technical change.
+H187
+H187
+H187
+H187
+Addition of the if-installed symbol in order 
+to indicate that the ADF is an option.
+H188
+Wording enhancement. No technical 
+change.
+H189
+Addition of abbreviation tags in order to 
+comply with the Airbus authoring policy.
+DSC-22_20-20-10-28
+SECONDARY Pages
+H190
+Addition of the description on how to 
+access the ATC REJ INFO page through 
+the [5L] key.
+DSC-22_20-20-10-28
+RTA Page
+H191
+New information
+DSC-22_20-20-20
+G/S DESELECTED
+H192
+New information
+DSC-22_20-20-20
+INVALID WIND/TEMP UPLK
+H193
+New information
+DSC-22_20-20-20
+MORE DRAG
+H194
+New information
+DSC-22_20-20-20
+RTA NOT RELIABLE
+H195
+New information
+DSC-22_20-20-20
+SEC RTA NOT RELIABLE
+H196
+New information
+DSC-22_20-20-20
+T.O RWY TOO SHORT
+H197
+New information
+DSC-22_20-20-20
+T.O SPEEDS TOO LOW
+H198
+New information
+DSC-22_20-20-20
+V1/VR/V2 DISAGREE
+H199
+New information
+DSC-22_20-20-20
+WIND/TEMP DATA UPLK
+H200
+New information
+Section
+Title
+Ref
+Reason
+"
+15,"PRELIMINARY PAGES
+SUMMARY OF HIGHLIGHTS
+A320/A321
+FLIGHT CREW OPERATING MANUAL
+ABY A320/A321
+PLP-SOH P 9/48
+FCOM
+30-Dec-24
+DSC-22_20-20-20
+WIND/TEMP UPLK EXISTS
+H201
+New information
+DSC-22_20-30-10
+How to Change T.O Data or Departure 
+Runway after Rejected Takeoff
+H202
+New information
+DSC-22_20-30
+How to Change T.O Data or Departure 
+Runway after Rejected Takeoff
+H203
+Moved section (NP00183)
+H204
+Moved section (NP00185)
+H205
+Moved section (NP00189)
+H206
+Moved section (NP00192)
+H207
+Moved section (NP00194)
+DSC-22_20-30-10
+How to Change T.O Data or Departure 
+Runway after Rejected Takeoff
+H208
+Moved DU invariant (00023074)
+DSC-22_20-30-20
+QNH Use for Aircraft NOT Equipped with 
+QFE Option
+H209
+Layout modification. No technical change.
+H210
+New information
+H211
+New information
+H212
+Moved DU invariant (00015220)
+DSC-22_20-30-20
+QNH Use for Aircraft Equipped with QFE 
+Option
+H213
+Layout modification. No technical change.
+H214
+New information
+H215
+Moved DU invariant (00015221)
+DSC-22_20-30-20
+QFE Use for Aircraft NOT Equipped with 
+QFE Option
+H216
+New information
+H217
+Moved DU invariant (00015222)
+DSC-22_20-30-20
+QFE Use for Aircraft Equipped with QFE 
+Option
+H218
+Layout modification. No technical change.
+H219
+New information
+H220
+Moved DU invariant (00015223)
+DSC-22_20-30-30
+GENERAL
+H221
+New information
+DSC-22_20-30-30
+MCDU ALTITUDE PREDICTIONS - 
+GENERAL
+H222
+New information
+DSC-22_20-30-30
+MCDU ALTITUDE PREDICTIONS - ON 
+THE GROUND
+H223
+New information
+DSC-22_20-30-30
+MCDU Altitude Predictions - In Flight
+H224
+New information
+H225
+New information
+DSC-22_20-30-30
+Target Altitude on PFD
+H226
+New information
+H227
+New information
+DSC-22_20-30-30
+Procedures
+H228
+New information
+DSC-22_20-30-40
+Clearing the Scratchpad of Data or 
+Messages
+H229
+New information
+DSC-22_20-30-40
+Clearing Data Fields
+H230
+New information
+H231
+New information
+DSC-22_20-30-50
+Pilots Route Function
+H232
+New information
+DSC-22_20-30-50
+Stored Route Function
+H233
+New information
+DSC-22_20-30-60
+General
+H234
+New information
+Section
+Title
+Ref
+Reason
+"
+16,"PRELIMINARY PAGES
+SUMMARY OF HIGHLIGHTS
+A320/A321
+FLIGHT CREW OPERATING MANUAL
+ABY A320/A321
+PLP-SOH P 10/48
+FCOM
+30-Dec-24
+DSC-22_20-30-60
+Report Page Access
+H235
+New information
+DSC-22_20-30-60
+Report Page Acces
+H236
+New information
+DSC-22_20-30-70
+General
+H237
+New information
+DSC-22_20-30-70
+How to Insert a Time Marker
+H238
+New information
+H239
+New information
+DSC-22_20-30-80
+Flight Plan Initialization Through ACARS
+H240
+New information
+DSC-22_20-30-80
+Flight Plan Initialization Through ACARS 
+(if installed)
+H241
+New information
+DSC-22_20-30-80
+Takeoff Data - General
+H242
+New information
+DSC-22_20-30-80
+Takeoff Data - Request For Takeoff Data
+H243
+New information
+DSC-22_20-30-80
+Takeoff Data - Procedure to Insert Uplink 
+Takeoff Data
+H244
+New information
+H245
+New information
+DSC-22_20-30-80
+Wind Data - Request for Wind Data
+H246
+New information
+H247
+New information
+DSC-22_20-30-80
+Wind Data - Procedure to Insert Wind 
+Data
+H248
+New information
+H249
+New information
+H250
+New information
+DSC-22_20-40
+Automatic FMGS Reset and 
+Resynchronization - FM Reset
+H251
+Moved section (NP02874)
+DSC-22_20-40-10
+Automatic FMGS Reset and 
+Resynchronization - FMGC Status During 
+a Reset/Resynchronization
+H252
+H252
+H252
+H252
+Layout modification. No technical change.
+H253
+Addition of the if-installed symbol in order 
+to indicate that the ADF is an option.
+H254
+Addition of the if-installed symbol in order 
+to indicate that the ADF is an option.
+H255
+H255
+H255
+H255
+Layout modification. No technical change.
+Section
+Title
+Ref
+Reason
+"
+17,"PRELIMINARY PAGES
+SUMMARY OF HIGHLIGHTS
+A320/A321
+FLIGHT CREW OPERATING MANUAL
+ABY A320/A321
+PLP-SOH P 11/48
+FCOM
+30-Dec-24
+DSC-22_20-40-10
+Automatic FMGS Reset and 
+Resynchronization - Dual Reset with Loss 
+of Data and Autorecovery
+H256
+Addition of abbreviation tag in order to 
+comply with the Airbus authoring policy.
+H257
+Layout modification. No technical change.
+H258
+Addition of the if-installed symbol in order 
+to indicate that the ADF is an option.
+H259
+Addition of the if-installed symbol in order 
+to indicate that the ADF is an option.
+H260
+Layout modification. No technical change.
+H261
+Addition of abbreviation tag in order to 
+comply with the Airbus authoring policy.
+H262
+Addition of abbreviation tag in order to 
+comply with the Airbus authoring policy.
+H263
+Addition of the if-installed symbol in order 
+to indicate that the ADF is an option.
+H264
+Layout modification. No technical change.
+DSC-22_20-40-10
+Manual FMGS Reset Procedure
+H265
+Update of the reference link in order to 
+indicate the new reset table.
+DSC-22_20-40-30
+General
+H266
+New information
+DSC-22_20-100-20
+Inadvertent T.O. Data Reversion Upon 
+RWY Change
+H267
+H267
+Addition of ""CONFIRM TO DATA"" prompt 
+that may be displayed instead of ""NEXT 
+PHASE"".
+DSC-22_20-100-30
+Missing ""NO FLS FOR THIS APPR"" 
+Message when FLS is not Available
+H268
+New information
+DSC-22_30-40-10
+AP/FD Lateral Modes 1
+H269
+H269
+H269
+H269
+Layout modification. No technical change.
+DSC-22_30-40-80-00
+Guidance Selection
+H270
+New information
+DSC-22_30-40-80-00
+FLS Function Availability
+H271
+New information
+DSC-22_30-40-80-00
+Approaches flown with Lateral and 
+Vertical FLS Guidance
+H272
+New information
+DSC-22_30-40-80-00
+Approaches flown with Vertical FLS 
+Guidance
+H273
+New information
+DSC-22_30-40-80-60
+General
+H274
+New information
+DSC-22_30-40-80-60
+F-LOC Arming Conditions
+H275
+New information
+DSC-22_30-40-80-60
+F-LOC Disarming Conditions
+H276
+New information
+DSC-22_30-40-80-60
+F-LOC* Engagement Conditions
+H277
+New information
+DSC-22_30-40-80-60
+F-LOC* Disengagement Conditions
+H278
+New information
+DSC-22_30-40-80-60
+Reversions
+H279
+New information
+DSC-22_30-40-80-60
+Reversions - Triple Click
+H280
+New information
+Section
+Title
+Ref
+Reason
+"
+18,"PRELIMINARY PAGES
+SUMMARY OF HIGHLIGHTS
+A320/A321
+FLIGHT CREW OPERATING MANUAL
+ABY A320/A321
+PLP-SOH P 12/48
+FCOM
+30-Dec-24
+DSC-22_30-40-80-60
+F-LOC Engagement Conditions
+H281
+New information
+DSC-22_30-40-80-60
+F-LOC Disengagement Conditions
+H282
+New information
+DSC-22_30-40-80-60
+Reversions
+H283
+New information
+DSC-22_30-40-80-60
+Reversions - Triple Click
+H284
+New information
+DSC-22_30-40-80-70
+General
+H285
+New information
+DSC-22_30-40-80-70
+F-G/S Arming Conditions
+H286
+New information
+DSC-22_30-40-80-70
+F-G/S Disarming Conditions
+H287
+New information
+DSC-22_30-40-80-70
+F-G/S* Engagement Conditions
+H288
+New information
+DSC-22_30-40-80-70
+F-G/S* Disengagement Conditions
+H289
+New information
+DSC-22_30-40-80-70
+Reversions
+H290
+New information
+DSC-22_30-40-80-70
+Reversions - Triple Click
+H291
+New information
+DSC-22_30-40-80-70
+F-G/S Engagement Conditions
+H292
+New information
+DSC-22_30-40-80-70
+F-G/S Disengagement Conditions
+H293
+New information
+DSC-22_30-40-80-70
+Reversions
+H294
+New information
+DSC-22_30-40-80-70
+Reversions - Triple Click
+H295
+New information
+DSC-22_30-40-120-80
+VOR Approach Flown with FLS Function
+H296
+New information
+DSC-22_30-40-120-80
+LOC only Approach Flown with FLS 
+Function
+H297
+New information
+DSC-22_30-50-30
+Arming Conditions
+H298
+Layout modification. No technical change.
+DSC-22_30-60-20
+Managed Speed/Mach Target
+H299
+Addition of a note to inform that the target 
+speed cannot be below the maneuvering 
+speed.
+DSC-22_30-70
+List of Approach and Landing Capabilities 
+- FLS
+H300
+New information
+DSC-22_30-80-20
+F-APP
+H301
+New information
+DSC-22_30-80-20
+F-APP + RAW
+H302
+New information
+DSC-22_30-80-20
+F-G/S (armed)
+H303
+New information
+DSC-22_30-80-20
+F-G/S (engaged)
+H304
+New information
+DSC-22_30-80-20
+F-G/S*
+H305
+New information
+DSC-22_30-80-20
+F-LOC (armed)
+H306
+New information
+DSC-22_30-80-20
+F-LOC (engaged)
+H307
+New information
+DSC-22_30-80-20
+F-LOC*
+H308
+New information
+DSC-22_30-80-20
+MORE DRAG
+H309
+New information
+DSC-22_30-80-20
+MOVE THR LEVERS
+H310
+New information
+DSC-22_30-80-20
+RAW ONLY
+H311
+New information
+DSC-22_30-80-20
+VERT DISCON AHEAD
+H312
+New information
+DSC-23-10-10
+Communication System Architecture
+H313
+New information
+DSC-23-10-20
+Radio Management Panel
+H314
+Layout modification. No technical change.
+Section
+Title
+Ref
+Reason
+"
+19,"PRELIMINARY PAGES
+SUMMARY OF HIGHLIGHTS
+A320/A321
+FLIGHT CREW OPERATING MANUAL
+ABY A320/A321
+PLP-SOH P 13/48
+FCOM
+30-Dec-24
+DSC-23-10-20
+Description
+H315
+New information
+DSC-23-10-20
+RMP
+H316
+New information
+DSC-23-10-20
+RMP synchronization
+H317
+New information
+DSC-23-10-20
+Active communication
+H318
+New information
+DSC-23-10-20
+Standby Control
+H319
+New information
+DSC-23-10-30
+Audio Management System
+H320
+New information
+DSC-23-10-40
+Description
+H321
+New information
+DSC-23-10-50
+Audio Control Panel
+H322
+H322
+Layout modification. No technical change.
+H323
+H323
+H323
+H323
+Addition of the if-installed symbol in order 
+to indicate that the HF is an option.
+H324
+Addition of the if-installed symbol in order 
+to indicate that the ADF is an option.
+H325
+H325
+H325
+H325
+Addition of the if-installed symbol in order 
+to indicate that the HF is an option.
+H326
+H326
+Layout modification. No technical change.
+H327
+Addition of the if-installed symbol in order 
+to indicate that the ADF is an option.
+H328
+New information
+DSC-23-20-20
+Cabin Interphone
+H329
+New information
+DSC-23-20-40
+Description
+H330
+New information
+DSC-23-20-40
+Controls and Indicators
+H331
+New information
+DSC-23-30-10
+Description
+H332
+New information
+DSC-23-30-10
+VHF
+H333
+New information
+DSC-23-30-10
+SELCAL
+H334
+New information
+DSC-23-40-30
+Autonomous Distress Tracking
+H335
+New information
+DSC-23-40-30
+Controls and Indicators
+H336
+New information
+DSC-23-45-10
+HF (if installed) Page
+H337
+New information
+DSC-23-45-10
+MENU Page
+H338
+New information
+DSC-23-45-10
+RMP External Communication
+H339
+New information
+DSC-23-45-10
+RMP Overview
+H340
+New information
+DSC-23-45-10
+VHF Page
+H341
+New information
+DSC-23-45-20
+RMP Messages on the RMP Page Area
+H342
+New information
+Section
+Title
+Ref
+Reason
+"
+20,"PRELIMINARY PAGES
+SUMMARY OF HIGHLIGHTS
+A320/A321
+FLIGHT CREW OPERATING MANUAL
+ABY A320/A321
+PLP-SOH P 14/48
+FCOM
+30-Dec-24
+DSC-23-45-20
+RMP Messages on the RMP Message 
+Area
+H343
+New information
+DSC-23-50
+Loudspeakers
+H344
+New information
+DSC-24-30
+Cockpit power outlets inoperative
+H345
+New information
+DSC-25-10-40
+Main Instrument Panel - First Officer Side
+H346
+New information
+DSC-25-10-50
+Pedestal
+H347
+New information
+DSC-25-10-60
+Overhead Panel
+H348
+New information
+DSC-26-50-10
+Smoke Detection
+H349
+Layout modification. No technical change.
+DSC-26-50-10
+Fire Extinguishing
+H350
+New information
+DSC-27-20-10-10
+General
+H351
+New information
+DSC-27-20-10-20
+Protections - High Speed Protection - 
+Overspeed
+H352
+New information
+DSC-27-20-10-30
+Normal Law
+H353
+New information
+DSC-27-30-20
+Pedestal
+H354
+New information
+DSC-28-10-20
+Usable Fuel
+H355
+New information
+DSC-28-10-30
+Fuel Feed Sequence
+H356
+New information
+DSC-28-20
+ACT Control Panel
+H357
+Enhancement of the illustration and 
+addition of the links.
+H358
+Update of the positions of FWD ACT 
+pb-sw and ALL ACT pb-sw to be in 
+accordance with the real cockpit panel.
+DSC-28-20
+ACT XFR MODE SEL pb-sw
+H359
+H359
+H359
+Removal of abbreviation tags in order to 
+comply with the Airbus authoring policy.
+H360
+Layout modification. No technical change.
+DSC-28-20
+ALL ACT pb-sw
+H361
+Addition of the information that the fuel 
+overflows from the ACT to the center 
+tank, and then from the center tank to the 
+surge tank of the left wing.
+H362
+Layout modification. No technical change.
+DSC-28-20
+FWD ACT pb-sw (guarded)
+H363
+Update of the description when fault light 
+is illuminated.
+H364
+Layout modification by adding pb-sw 
+illustrations.
+H365
+Update of the description when the 
+system operates normally: the description 
+related to the system operation in the 
+case of failure is moved to the FWD ACT 
+pb-sw FAULT light description.
+DSC-28-20
+ECAM Fuel Page
+H366
+New information
+Section
+Title
+Ref
+Reason
+"

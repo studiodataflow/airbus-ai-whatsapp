@@ -1,0 +1,3304 @@
+level,title,page
+1,Preliminary Pages,1
+2,Title Page,1
+2,Overall Table of Contents,3
+2,Summary of Highlights,7
+2,Transmittal Letter,55
+2,List of Effective Sections,57
+2,List of Airline Modified Documentary Units,73
+2,List of Effective Temporary Document Units,75
+2,Aircraft Allocation Table,85
+2,List of Modifications,87
+1,General Information,169
+2,Aircraft Configuration Summary,169
+2,If Installed Table,173
+2,Airbus Copyright & Export Control Classification,199
+2,Main FCOM Changes,199
+2,FCOM Purpose,200
+2,List of Effective Sections/Subsections (LESS) - Paper ONLY,201
+2,List of Effective Documentary Units (LEDU) - Paper Only,202
+2,List of Effective Temporary Documentary Units (LETDU) - Paper Only,203
+2,Aircraft Allocation Table (AAT) - Paper Only,203
+2,List of Modifications (LOM) - Paper Only,204
+2,FCOM Use and Organization,204
+2,FCOM Format and Style Information - Paper only,206
+2,FCOM Revisions,209
+2,OEB General Description,209
+2,TDU General Description,212
+2,TAB General Description,212
+2,Abbreviations,213
+1,Aircraft Systems,237
+2,Table of Contents,237
+2,20 Aircraft General,245
+3,Table of Contents,245
+3,20-10 Overview,247
+4,General,247
+4,Engines,247
+4,Cockpit,247
+4,Cabin,247
+4,Cargo,247
+3,20-20 Description,249
+4,General Arrangement,249
+4,Principal Dimensions,250
+4,Unpressurized Compartments,255
+4,Antenna Locations,255
+4,Ground Service Connections and Panels,256
+3,20-30 Ground Handling,259
+4,Taxiing,259
+4,180 degrees Turn on Runway,263
+3,20-40 Ground Clearance Diagram,265
+4,Ground Clearance Diagram,265
+3,20-50 Landing Geometry,269
+4,ILS/ GLS (if installed)/ MLS (if installed) Final Approach and Landing Geometry,269
+4,Minimum Visual Ground Segments (Flare Phase),271
+3,20-60 Visual Ground Geometry,273
+4,Visual Ground Geometry,273
+2,21 Air Conditioning / Pressurization / Ventilation,275
+3,Table of Contents,275
+3,21-10 Air Conditioning,279
+4,21-10-10 General,279
+5,General,279
+5,Architecture,281
+4,21-10-20 Main Components,285
+5,Air Conditioning Pack,285
+5,Pack Schematic (Simplified),286
+5,Pack Flow Control Valve,289
+5,Emergency Ram Air,289
+5,Mixer Unit,289
+5,Hot-Air Pressure-Regulating Valve,290
+5,Trim Air Valves,290
+4,21-10-30 Temperature and Flow Regulation,291
+5,General,291
+5,Temperature Regulation,291
+5,Air Conditioning System Controllers,293
+5,Cockpit - Electrical Heaters,296
+4,21-10-40 System Operation under Failure Condition,297
+5,General,297
+5,Air Conditioning System Controllers (if installed),297
+5,Air Cycle Machine Failure,297
+5,Hot Air Pressure Regulating Valve Failure,298
+5,Trim Air Valve Failure,298
+4,21-10-50 Controls and Indicators,299
+5,Controls on Overhead Panel,299
+5,ECAM BLEED Page,313
+5,ECAM COND Page,316
+5,ECAM CAB PRESS Page,319
+5,ECAM Cruise Page,320
+5,Engine Warning Display,321
+5,Memo Display,322
+3,21-20 Pressurization,323
+4,21-20-10 General,323
+5,General,323
+5,Automatic Operation,323
+5,Manual Operation,324
+5,SCHEMATICS,325
+4,21-20-20 Main Components,327
+5,Cabin Pressure Controllers,327
+5,Outflow Valve,327
+5,Safety Valves,327
+5,Residual Pressure Control Unit (RPCU (if installed)),328
+4,21-20-30 System Operation,329
+5,Automatic Pressure Control Mode,329
+5,Pressurization Flight Profile,330
+5,Manual Pressure Control Mode,331
+5,Ditching,331
+4,21-20-40 Controls and Indicators,333
+5,Overhead Panel,333
+5,ECAM CAB PRESS Page,335
+5,ECAM Cruise Page,342
+5,ECAM DOOR/OXY Page,344
+5,Memo Display,344
+3,21-30 Ventilation,345
+4,21-30-10 General,345
+5,General,345
+4,21-30-20 Avionics Ventilation,347
+5,General,347
+5,Main Components,347
+5,"Normal Operation, Open-Circuit Configuration",348
+5,"Normal Operation, Close-Circuit Configuration",352
+5,"Normal Operation, Intermediate Configuration",357
+5,Abnormal Operation,361
+4,21-30-40 Battery Ventilation,365
+5,Battery Ventilation,365
+4,21-30-50 Lavatory and Galley Ventilation,367
+5,Lavatory and Galley,367
+4,21-30-60 Controls and Indicators,369
+5,Overhead Panel,369
+5,ECAM CAB PRESS Page,370
+3,21-40 Cargo,373
+4,21-40-10 General,373
+5,General,373
+5,Schematic,373
+4,21-40-20 System Operation,375
+5,FWD Cargo Ventilation (if installed),375
+5,AFT Cargo Ventilation (if installed),375
+5,AFT Cargo Heating (if installed),376
+5,FWD Cargo Heating (if installed),376
+4,21-40-30 Controls and Indicators,377
+5,Overhead Panel,377
+4,21-40-35 ECAM Cond Page,381
+5,ECAM COND Page,381
+2,22_10 Auto Flight - General,385
+3,Table of Contents,385
+3,22_10-10 Description,387
+4,FMGC Standard,387
+4,FMGC Standard,387
+4,Preamble,388
+4,Description,388
+4,General Philosophy,389
+4,Flight Management Guidance Computer (FMGC),390
+4,Multipurpose Control and Display Unit (MCDU),393
+4,Flight Control Unit (FCU),393
+4,Flight Augmentation Computer (FAC),393
+4,Other Flight Crew Interfaces,394
+4,Flight Crew Interface with FMGC,395
+3,22_10-20 System Interface Diagram,397
+4,System Interface Diagram,397
+3,22_10-30 FMGS Modes of Operation,399
+4,General,399
+4,Dual Mode,399
+4,Independent Mode,401
+4,Single Mode,404
+4,Back Up Navigation Mode,407
+3,22_10-40 Pilot Interface,409
+4,22_10-40-05 Management of the Displays,409
+5,General,409
+4,22_10-40-10 MCDU,411
+5,MCDU,411
+4,22_10-40-20 FCU,425
+5,FCU,425
+5,FCU Philosophy,426
+5,Speed/Mach Control Area,427
+5,Lateral Control Area,428
+5,AP-A/THR Control Area,431
+5,Vertical Control Area,432
+4,22_10-40-30 Thrust Levers,439
+5,Thrust Levers,439
+4,22_10-40-40 Primary Flight Display,441
+5,PFD,441
+4,22_10-40-50 Navigation Display,443
+5,ND,443
+5,Arc Mode,443
+5,Plan Mode,444
+5,Rose Modes,445
+5,Flight Plan Display Colors,446
+3,22_10-50 Speeds Definition,449
+4,General,449
+5,General,449
+4,Characteristic Speeds,451
+5,Characteristic Speeds,451
+4,Limit Speeds,461
+5,Limit Speeds,461
+4,Protection Speeds,463
+5,Protection Speeds,463
+4,Other Speeds,465
+5,Other Speeds,465
+2,22_20 Auto Flight - Flight Management,467
+3,Table of Contents,467
+3,22_20-10 System Descriprion,483
+4,22_20-10-10 Overview,483
+5,Overview,483
+4,22_20-10-20 Navigation,485
+5,General,485
+6,Navigation,485
+5,Position Computation,487
+6,General,487
+6,MIX IRS Position,487
+6,GPS Position,488
+6,Radio Position,491
+6,FM Position,493
+6,Position Monitor,494
+6,Takeoff Update,496
+6,Navigation Modes,497
+5,Evaluation of Position Accuracy,499
+6,General,499
+6,Estimated Position Uncertainty,501
+6,FM/GPS Position Disagreement,507
+5,Radio Navigation Tuning,509
+6,General,509
+6,Architecture,510
+6,VOR,511
+6,DME,511
+6,ADF,512
+6,ILS,512
+6,GLS,513
+6,Selection of Navaids on MCDU Pages,513
+6,Manual Tuning,516
+6,Navaid Identification,518
+5,Alignment of Inertial Reference System,519
+6,Alignment of Inertial Reference System,519
+5,Navigation Database,523
+6,General,523
+4,22_20-10-30 Flight Planning,525
+5,General,525
+6,Flight Planning,525
+5,Lateral Functions - General,527
+6,General,527
+6,Manual Legs,536
+6,Flight Plan Construction,537
+6,Flight Plan Capacity,541
+6,Lateral Revisions,542
+5,Lateral Functions - FMS2 HONEYWELL,551
+6,General,551
+6,Temporary F-PLN (TMPY),552
+6,"Inserting an Airway with ""Via""",553
+6,Inserting a Waypoint,557
+6,Fix Info,564
+6,Inserting a New Destination,570
+6,Holding Pattern,572
+6,Offset,586
+6,Alternate Function,589
+6,Enable ALTN,594
+6,DIR Key (Direct-to-Function),596
+6,OVFY (Overfly) Key,609
+6,POSITION update at,611
+6,Update at,613
+5,Lateral Functions - FMS2 Thales,615
+6,General,615
+6,Temporary F-PLN (TMPY),617
+6,"Inserting an  Airway with ""VIA""",619
+6,Inserting a Waypoint,623
+6,Fix Info,627
+6,Inserting a New Destination,632
+6,Holding Pattern,634
+6,Offset,647
+6,Alternate Function,650
+6,Enable ALTN,654
+6,DIR Key (DIRECT-TO-FUNCTION),656
+6,OVFY (Overfly) Key,672
+6,POSITION UPDATE AT,674
+6,UPDATE AT,676
+6,Changing the Departure/Arrival,677
+5,Vertical Functions - General,681
+6,General,681
+6,Vertical Flight Planning,682
+6,Flight Phases,683
+6,Vertical Revision,688
+6,"Vertical Constraints (Speed, Altitude, Time)",690
+6,General,699
+6,Estimated Takeoff Time (ETT),703
+6,Step Climb/Step Descent,706
+5,Vertical Functions - FMS2 Thales,721
+6,General,721
+6,Time Constraint/RTA,722
+6,Wind - Temperature - QNH,729
+6,Constant Mach,742
+5,Vertical Functions - FMS2 Honeywell,745
+6,General,745
+6,Required Time of Arrival (RTA),746
+6,Wind - Temperature - QNH,748
+6,Constant Mach Segment,758
+5,Diversion,761
+6,General,761
+6,Diversion to Preplanned Alternate Airport,761
+6,En Route Diversion with Several Airports Available,762
+6,En Route Diversion over Oceanic or Desertic Area,764
+6,Diversion Preparation on the Secondary Flight Plan,764
+6,Miscellaneous,765
+6,Execution of the Diversion,765
+6,Diversion to the Alternate Airport,766
+6,Using the Secondary Flight Plan Function,767
+6,Using New Destination Function,769
+6,Equitime Point,771
+6,Equitime Point Entry,773
+6,Closest Airports,776
+5,Secondary Flight Plan,781
+6,Secondary Flight Plan,781
+4,22_20-10-40 Performance,787
+5,Optimization,787
+6,General,787
+6,Optimization,788
+6,Descent Profile Optimization (if installed),800
+5,Cost Index,803
+6,Cost Index (CI),803
+5,Predictions,805
+6,General,805
+6,Predictions for the Primary Flight Plan,805
+6,Computation of Predictions,806
+6,Predictions Displayed on the Navigation Display,807
+6,Predictions Displayed on the MCDU,811
+6,Type of Predictions,813
+6,Examples of MCDU Predictions,814
+6,Constraint Symbols (Star),818
+6,Vertical Deviation,819
+6,Operation Rules Concerning Predictions,819
+6,Other Computations,819
+6,Return-to-Trajectory Assumptions,822
+6,Energy Circle,822
+6,Introduction to PERF and IDLE Factors,822
+6,PERF Factor,823
+6,IDLE Factor,823
+6,Procedure to Modify the PERF and IDLE Factors,826
+4,22_20-10-50 Engine Out,827
+5,General,827
+5,Flight Management Part,827
+5,Flight Guidance Part,828
+5,Autothrust,828
+5,Engine-Out Conditions,828
+5,Engine-Out SID,829
+5,Engine-Out in CLB Phase (above acceleration altitude),837
+5,Engine-Out in Cruise Phase,838
+5,Engine-Out in Descent Phase,840
+5,Engine-Out In Approach Phase,841
+5,Engine-Out in Go-Around Phase,841
+4,22_20-10-60 FLS Function in the FMS,843
+5,General,843
+5,FLS Beam Computation,843
+4,22_20-10-70 Takeoff Surveillance and Monitoring,847
+5,Takeoff Surveillance Function,847
+6,Takeoff Surveillance Function,847
+6,Associated Alerts and Messages,852
+5,Controls and Indicators,855
+6,SURV Panel on Overhead Panel,855
+6,MEMO,855
+4,22_20-10-80 Print Functions,857
+5,Print Function,857
+5,Print Function Access,859
+5,On Ground Before Engine Start,861
+5,Example (FM Preflight Report),863
+5,In Flight,864
+5,Example (FM Inflight Report),866
+5,Reaching the Gate After Landing,867
+5,Example (FM Postflight Report),868
+3,22_20-20 Controls and Indicators,869
+4,22_20-20-10 MCDU - Page Description,869
+5,FMS2 Honeywell,869
+6,General,869
+6,MCDU MENU Page,871
+6,INIT A Page,872
+6,Route Selection Page,875
+6,IRS INIT Page,876
+6,WIND Pages,877
+6,INIT B Page,881
+6,Fuel Prediction Page,884
+6,Flight Plan Pages,886
+6,Lateral Revision Pages,891
+6,Fix Info Page,894
+6,Offset Page,896
+6,Airways Page,898
+6,Departure Pages,899
+6,Hold Pages,902
+6,Direct TO Page,907
+6,ARRIVAL Pages,910
+6,Alternate Page,914
+6,Route Selection Page for Alternate,916
+6,VERTICAL REVISION Pages,917
+6,Step ALTS Page,922
+6,RTA Page,924
+6,Data Index Pages,926
+6,Waypoint/Stored Waypoint/New Waypoint Pages,928
+6,NAVAID/Stored NAVAID/New NAVAID Pages,931
+6,Runways/Stored Runways/New Runway Pages,936
+6,Route/Stored Route/New Route Pages,939
+6,Aircraft Status Page,942
+6,P/N XLOAD Page,944
+6,P/N Status Pages,945
+6,Duplicate Names Page,948
+6,Position Monitor Page,949
+6,Position Monitor and Position Frozen Page,951
+6,Selected NAVAIDS Page,952
+6,IRS Monitor Page,953
+6,GPS Monitor Page (if installed),956
+6,Closest Airports Pages,957
+6,Equi-Time Point Page,959
+6,Print Function Pages,961
+6,ACARS Function Page,963
+6,ACARS Function Page 1,966
+6,Uplink TO Data REQ Pages,967
+6,Uplink MAX TO Data Pages,970
+6,Uplink FLX TO Data Pages,972
+6,ACARS Function Page 2,973
+6,PERF Page,974
+6,PERF Takeoff Page,976
+6,PERF Climb Page,979
+6,PERF Cruise Page,981
+6,PERF Descent Page,984
+6,PERF APPR Page,987
+6,PERF Go Around Page,990
+6,PROG Pages,992
+6,Predictive GPS Pages,997
+6,Predictive GPS Pages,998
+6,Report Page,1002
+6,RADIO NAV Page,1004
+6,Secondary Pages,1006
+6,Back Up NAV Pages,1010
+5,FMS2 Thales,1019
+6,GENERAL,1019
+6,MCDU MENU Page,1020
+6,INIT A Page,1023
+6,ROUTE SELECTION Page,1027
+6,IRS INIT Page,1028
+6,WIND Pages,1032
+6,INIT B Page,1055
+6,FUEL PREDICTION Page,1058
+6,FLIGHT PLAN Pages,1062
+6,LATERAL REVISION Pages,1067
+6,AIRWAYS Page,1071
+6,DEPARTURE Pages,1072
+6,HOLD Pages,1075
+6,DIRECT TO Page,1079
+6,ARRIVAL Pages,1083
+6,ALTERNATE Page,1089
+6,ROUTE SELECTION Page for Alternate,1091
+6,VERTICAL REVISION Pages,1092
+6,STEP ALTS Page,1100
+6,DATA INDEX Pages,1102
+6,WAYPOINT/PILOTS WAYPOINT/NEW WAYPOINT Pages,1104
+6,NAVAID/PILOTS' NAVAID/NEW NAVAID Pages,1106
+6,RUNWAYS/PILOTS' RUNWAYS/NEW RUNWAY Pages,1116
+6,ROUTE/PILOTS' ROUTE/NEW ROUTE PAGES,1122
+6,AIRCRAFT STATUS Page,1125
+6,P/N XLOAD PAGE,1127
+6,P/N STATUS PAGES,1128
+6,POSITION MONITOR Page,1131
+6,SELECTED NAVAIDS Page,1134
+6,IRS MONITOR Page,1136
+6,DUPLICATE NAMES PAGE,1139
+6,GPS MONITOR PAGE (if installed),1142
+6,PRINT FUNCTION Pages,1144
+6,AOC FUNCTION Page (If installed),1146
+6,PERF Page,1154
+6,PROG Pages,1195
+6,RADIO NAV Page,1205
+6,SECONDARY Pages,1209
+6,RADIAL FIX INFO Pages,1213
+6,CLOSEST AIRPORTS Pages,1215
+6,EQUI - TIME POINT Page,1218
+6,RTA Page,1220
+6,CONSTANT MACH Page,1231
+6,BACK UP NAV Pages,1234
+4,22_20-20-20 MCDU - Messages,1243
+5,General,1243
+5,A/C POSITION INVALID,1243
+5,ABEAM POINTS LIST FULL,1243
+5,ALIGN IRS,1243
+5,ALT CSTR ABOVE CRZ FL,1244
+5,ALTN F-PLN DELETED,1244
+5,AOC XXX F-PLN UPLINK,1244
+5,AREA RNP IS XX.XX,1244
+5,AWY/WPT MISMATCH,1245
+5,BLOCK IGNORES RTA,1245
+5,CABIN RATE EXCEEDED,1245
+5,CHECK ALTN WIND,1246
+5,CHECK APPR SELECTION,1246
+5,CHECK CO RTE,1247
+5,CHECK DATA BASE CYCLE,1247
+5,CHECK DEST DATA,1247
+5,CHECK FLT NBR,1247
+5,CHECK IRS 1(2)(3)/FM POSITION,1248
+5,CHECK IRS/AIRPORT POS,1248
+5,CHECK MIN DEST FOB,1248
+5,CHECK NORTH REF,1248
+5,CHECK ONSIDE P/N,1249
+5,CHECK QFE,1249
+5,CHECK TAKE OFF DATA,1249
+5,CHECK WEIGHT,1250
+5,CLK IS TAKE OFF TIME,1250
+5,CLOCK/GPS TIME DIFF,1250
+5,CLOCK IS TAKE OFF TIME,1251
+5,CLOSE RTE REQ FIRST,1251
+5,CONSTANT MACH DELETED,1251
+5,CROSSLOAD ABORTED,1251
+5,CROSSLOAD COMPLETE,1252
+5,CRZ FL ABOVE MAX FL,1252
+5,CSTR DEL ABOVE CRZ FL,1252
+5,CSTR DEL UP TO XXXXXXX,1252
+5,DATABASE CODING ERROR,1253
+5,DECELERATE,1253
+5,DELETING OFFSET,1253
+5,DELETING SEC OFFSET,1253
+5,DEST/ALTN MISMATCH,1254
+5,DEST EFOB BELOW MIN,1254
+5,DIR TO IN PROCESS,1255
+5,ENTER DEST DATA,1255
+5,ENTRY OUT OF RANGE,1255
+5,F-G/S BASED ON ISA (if installed),1256
+5,F-PLN DATALINK IN PROG,1256
+5,F-PLN ELEMENT RETAINED,1256
+5,F-PLN FULL,1256
+5,F-PLN UPLINK -XX REJ,1257
+5,FLS (if installed) SEL: UPDATE MINIMA,1257
+5,FLT NBR UPLINK,1257
+5,FM DATALINK UNAVAIL,1257
+5,FM PREDICTIONS LOST,1258
+5,FMS SETTING SPD/RTA,1258
+5,FMS1/FMS2 A/C STS DIFF,1258
+5,FMS1/FMS2 GW DIFF,1259
+5,FMS1/FMS2 PGM PIN DIFF,1259
+5,FMS1/FMS2 POS DIFF,1259
+5,FMS1/FMS2 SPD TGT DIFF,1260
+5,FORMAT ERROR,1260
+5,G/S DESELECTED,1260
+5,GPS (if installed) IS DESELECTED,1260
+5,GPS PRIMARY (if installed),1261
+5,GPS PRIMARY (if installed) LOST,1261
+5,INDEPENDENT OPERATION,1261
+5,INIT DATA UPLINK,1261
+5,INITIALIZE WEIGHT/CG,1262
+5,INITIALIZE WEIGHTS,1262
+5,INSRT/ERASE TMPY FIRST,1262
+5,INVALID ATC UPLINK,1262
+5,INVALID F-PLN UPLINK,1263
+5,INVALID FLT NBR UPLINK,1263
+5,INVALID INIT UPLINK,1263
+5,INVALID PERF UPLINK,1263
+5,INVALID TAKEOFF UPLINK,1263
+5,INVALID WIND/TEMP UPLK,1264
+5,INVALID WIND UPLINK,1264
+5,IRS ONLY NAVIGATION,1264
+5,LAT DISCONT AHEAD,1264
+5,LIST OF 10 IN USE,1265
+5,LIST OF 20 IN USE,1265
+5,LIST OF 99 IN USE,1266
+5,MACH SEGMENT DELETED,1266
+5,MANUAL HOLD DELETED,1266
+5,MCDU OVERHEATED,1267
+5,MORE DRAG,1267
+5,NAV ACCUR DOWNGRAD,1267
+5,NAV ACCUR UPGRAD,1268
+5,NEW ACC ALT - HHHH,1268
+5,NEW ACC ALT HHHHH,1268
+5,NEW CRZ ALT - HHHHH,1268
+5,NEW CRZ ALT HHHHH,1269
+5,NEW THR RED ALT - HHHH,1269
+5,NEW THR RED ALT HHHHH,1269
+5,NO ANSWER TO REQUEST,1269
+5,NO FLS FOR THIS APPR (if installed),1270
+5,NO INTERSECTION FOUND,1270
+5,NO NAV INTERCEPT,1270
+5,NO SLS (if installed) FOR THIS APPR,1270
+5,NO SLS (if installed) MAN TUNING,1271
+5,NO SLS (if installed): SBAS DESELECTED,1271
+5,NO VERT PATH INTERCEPT,1271
+5,NON UNIQUE ROUTE IDENT,1271
+5,NOT ALLOWED,1272
+5,NOT ALLOWED IN NAV,1272
+5,NOT IN DATABASE,1272
+5,NOT XMITTED TO ACARS,1272
+5,OFST DELETED IN TMPY,1273
+5,ONLY SPD ENTRY ALLOWED,1273
+5,OPP FMGC IN PROCESS,1273
+5,PAGE UPDATE IN PROCESS,1274
+5,PERF DATA UPLINK,1274
+5,PILOT ELEMENT RETAINED,1274
+5,PILOTS ROUTES FULL,1274
+5,PLACE/D IN TRANSITION,1275
+5,PLACE/WPT MISMATCH,1275
+5,PLEASE WAIT,1275
+5,PRINT ABORTED,1275
+5,PRINTER NOT AVAILABLE (if installed),1276
+5,PROCEDURE RNP IS XX.XX,1276
+5,RADIONAV IS DESELECTED,1276
+5,REF/GPS POS DIFF,1277
+5,REF/LAST IRS POS DIFF,1277
+5,RESET IRS TO NAV,1278
+5,REVISION IN PROCESS,1278
+5,REVISIONS NOT STORED,1278
+5,RTA DELETED,1279
+5,RTA EXISTS,1280
+5,RTA MISSED AT XXXXXXX,1281
+5,RTA NOT RELIABLE,1281
+5,RWY/LS MISMATCH,1281
+5,SEC RTA NOT RELIABLE,1282
+5,SELECT DESIRED SYSTEM,1282
+5,SELECT HDG/TRK FIRST,1282
+5,SELECT TRUE,1282
+5,SENSOR IS INVALID,1283
+5,SET GREEN DOT SPEED,1283
+5,SET HOLD SPEED,1283
+5,SET MANAGED SPEED,1284
+5,SETTING SPD/RTA,1284
+5,SPD ERROR AT XXXXXXX,1284
+5,SPD LIM EXCEEDED,1285
+5,SPECIF NDB UNAVAIL,1285
+5,SPECIF VOR-D UNAVAIL,1285
+5,STEP ABOVE MAX FL,1285
+5,STEP AHEAD,1286
+5,STEP DELETED,1286
+5,STORED ROUTES FULL,1286
+5,SYSTEM NOT AVAILABLE,1286
+5,T/D REACHED,1287
+5,TAKE OFF DATA UPLINK,1287
+5,TEMPORARY F-PLN EXISTS,1287
+5,TIME ERROR AT XXXXXXX,1287
+5,TIME MARKER LIST FULL,1288
+5,TIME TO EXIT,1288
+5,TMPY F-PLN EXISTS,1288
+5,T.O RWY TOO SHORT,1288
+5,TO SPEED TOO LOW,1289
+5,T.O SPEEDS TOO LOW,1289
+5,TOO STEEP PATH AHEAD,1289
+5,TUNE BBB FFF.FF,1289
+5,TURN AREA EXCEEDANCE,1290
+5,UPLINK INSERT IN PROG,1290
+5,UPLNK INSERTED IN SEC,1290
+5,UPLNK INSERTED IN TMPY,1290
+5,UNKNOWN PROGRAM PIN,1290
+5,USING COST INDEX-NNN,1291
+5,USING COST INDEX NNN,1291
+5,V1/VR/V2 DISAGREE,1291
+5,WAIT FOR SYSTEM RESPONSE,1292
+5,WIND DATA UPLINK,1292
+5,WIND/TEMP DATA UPLK,1292
+5,WIND/TEMP UPLK EXISTS,1292
+5,WIND UPLINK EXISTS,1293
+5,WIND UPLINK PENDING,1293
+5,XXXX IS DESELECTED,1293
+4,22_20-20-30 MCDU - Data Format List,1295
+5,MCDU Data Format List,1295
+3,22_20-30 How To,1335
+4,Rejected Takeoff,1335
+5,How to Change T.O Data or Departure Runway after Rejected Takeoff,1335
+4,Insertion of Approach Minima,1337
+5,QNH Use for Aircraft NOT Equipped with QFE Option,1337
+5,QNH Use for Aircraft Equipped with QFE Option,1338
+5,QFE Use for Aircraft NOT Equipped with QFE Option,1338
+5,QFE Use for Aircraft Equipped with QFE Option,1339
+4,Effect of Baro Reference Setting,1341
+5,GENERAL,1341
+5,MCDU Altitude Predictions,1341
+5,Target Altitude on PFD,1344
+5,Procedures,1348
+4,Clear Key (Clearing Function),1349
+5,Clearing the Scratchpad of Data or Messages,1349
+5,Clearing Data Fields,1349
+4,Pilots/Stored Route Function,1353
+5,Pilots Route Function,1353
+5,Stored Route Function,1356
+4,Report Page,1359
+5,General,1359
+5,Report Page Access,1359
+5,Report Page Acces,1361
+4,Time Marker,1363
+5,General,1363
+5,How to Insert a Time Marker,1364
+4,AOC Functions,1367
+5,Flight Plan Initialization Through ACARS,1367
+5,Flight Plan Initialization Through ACARS (if installed),1371
+5,Takeoff Data,1374
+5,Wind Data,1380
+3,22_20-40 Abnormal Operations,1393
+4,22_20-40-10 FMGC Reset,1393
+5,Automatic FMGC Reset and Resynchronization,1393
+5,Manual FMGC Reset,1408
+4,"22_20-40-20 ""CHECK GW"" or ""CHECK WEIGHT"" Message",1409
+5,"""CHECK WEIGHT"" Message",1409
+4,22_20-40-30 MCDU Back Up Navigation,1411
+5,General,1411
+5,Back Up NAV Selection,1413
+5,Back Up NAV Operation,1417
+4,22_20-40-50 Other Abnormal Operations,1425
+5,Erroneous Predictions,1425
+5,Spurious Engine Out Indication,1426
+3,22_20-100 Temporary Abnormal Behaviors,1427
+4,FMS2 HONEYWELL Temporary Abnormal Behaviors,1427
+5,Incorrect Management Of SPD CSTR For Arrival Procedure Holds,1427
+5,Misalignment Of FMS F-PLN Legs For ILS Approaches,1428
+5,Incorrect Management Of ETA Entry On Predictive GPS Page,1428
+5,Flight Number Erased Upon AOC Flight Plan Uplink,1429
+5,Loss Of FMS Position Further To IRS Loss,1429
+5,Erroneous Fuel Prediction In The Case Of Descent With Two Altitude Constraints,1430
+5,Unexpected Switch Of Speed Target When RTA Is Used,1431
+5,Undue AP Disconnection or Reversion to V/S during Climb and Descent,1432
+5,VOR/DME and VOR/TACAN Not Automatically Tuned,1434
+5,Optimum Target Speeds not Updated following the Automatic Deletion of a Step Climb,1435
+5,Erroneous Lateral Guidance in NAV Mode with LOC Mode Armed during Approach,1436
+5,Undue Reduction of the Speed Target in case of DIR TO/ABEAM while Flying a Constant Mach Segment,1437
+5,Loss of Fuel and Time Predictions During Takeoff Data Insertion,1438
+5,Erroneous Trajectory during Procedures with a Turn Direction on a Leg with an Altitude Termination,1439
+5,Erroneous Vertical Profile during LOC B/C Approaches with a MAP Located Before the Runway Threshold,1441
+5,Erroneous Vertical Guidance in Approach Subsequent to a DIR TO Performed when Near the Top of Descent,1442
+5,No Engagement of the PRESEL SPD TARGET in Climb,1445
+5,Erroneous CF Leg Computation following FMS NEW RUNWAY with LS IDENT creation,1446
+5,Unexpected ILS Auto-tuning,1447
+5,Erroneous Managed Approach Speed after Descent Wind Uplink,1448
+5,Inadvertent T.O. Data Reversion Upon RWY Change,1449
+4,FMS2 THALES Temporary Abnormal Behaviors,1451
+5,"MCDU Frozen After the Flight Crew Accesses the ""DIR TO"", ""HOLD"" or ""OFFSET"" Function",1451
+5,Erroneous Cross Track Error/FD Display Orders After a Dir TO on Aligned Waypoint,1451
+5,Erroneous Offset,1453
+5,Erroneous Fuel Predictions In The Case of Descent With Two Altitude Constraints,1454
+5,"""FM PREDICTIONS LOST"" Message When Using the FUEL PLANNING Function",1455
+5,Erroneous Lateral Guidance in NAV Mode during Procedures that Use Not Collocated NAVAIDs,1455
+5,Erroneous Trajectory during Departure Procedures with a Course-to-Fix Leg and an Arc Leg,1457
+5,Erroneous Lateral Guidance in NAV Mode with LOC Mode Armed during Approach,1460
+5,Erroneous Trajectory Computation while in HDG/TRK Mode during Procedures with a Turn Direction on a Leg With an Altitude Termination,1461
+5,Erroneous Vertical Profile in Final Approach,1463
+5,Uncommanded Climb near the Top of Descent (T/D),1466
+5,Erroneous Altitude Constraint after SID or STAR Selection Change,1467
+5,Waypoint Not Sequenced After DIR TO RADIAL IN,1468
+5,Unusable MIN DEST FOB Value in the Secondary Flight Plan,1469
+5,"Unexpected DECELERATE displayed on MCDU (and ""T/D REACHED"" on PFD) during Climb",1471
+5,Missing or Incorrect Insert UPLINK Prompt on UPLINK T.O DATA Page,1472
+5,FMS Reset upon crossing the 180th Meridian,1473
+5,Dual FMS Reset with Loss of Data upon DIR TO/ABEAM Insertion with 3 STEP ALTS,1474
+5,"Missing ""NO FLS FOR THIS APPR"" Message when FLS is not Available",1475
+5,Not Expected early CLB Mode Engagement After Takeoff With QFE Setting,1476
+2,22_30 Auto Flight - Flight Guidance,1479
+3,Table of Contents,1479
+3,22_30-10 General,1493
+4,General,1493
+3,22_30-20 Flight Director,1495
+4,General,1495
+5,General,1495
+4,FD Engagement,1497
+5,Manual Engagement,1497
+5,Automatic Engagement,1497
+5,Engagement Annunciation,1497
+4,FD Symbology - Display,1499
+5,FD Symbology - Display,1499
+4,FD Symbology - Non Display,1501
+5,FD Symbology - Non Display,1501
+4,FD Disengagement,1503
+5,General,1503
+5,Manual Disengagement,1503
+5,Automatic Disengagement,1503
+5,Disengagement Annunciation,1504
+4,FD Warnings,1505
+5,FD Bars Flashing,1505
+5,FD Flag,1505
+3,22_30-30 Autopilot,1507
+4,General,1507
+5,General,1507
+4,AP Engagement,1509
+5,Introduction,1509
+5,Engagement Conditions,1509
+5,Engagement Annunciation,1509
+4,AP Disengagement,1511
+5,Manual Disengagement,1511
+5,Automatic Disengagement,1511
+5,Disengagement Annunciations and Warnings,1512
+3,22_30-40 AP/FD Modes,1513
+4,General,1513
+5,Introduction,1513
+5,AP/FD Lateral Modes,1513
+5,AP/FD Vertical Modes,1514
+5,AP/FD Common Modes,1517
+5,AP/FD Mode Status and Display,1517
+4,Takeoff,1519
+5,General,1519
+6,General,1519
+5,SRS TO Mode,1521
+6,General,1521
+6,Engagement Conditions,1522
+6,Disengagement Conditions,1522
+5,RWY Mode,1523
+6,General,1523
+6,Engagement Conditions,1523
+6,Disengagement Conditions,1523
+5,RWY TRK Mode,1525
+6,General,1525
+6,Engagement Conditions,1525
+6,Disengagement Conditions,1525
+4,Lateral Guidance from Takeoff to Descent,1527
+5,HDG/TRACK Mode,1527
+6,General,1527
+6,Engagement Conditions,1527
+6,HDG-V/S / TRK-FPA Selection,1528
+6,HDG/TRK Preset,1529
+6,Disengagement Conditions,1529
+6,Synchronize the HDG/TRK Window of the FCU,1530
+5,NAV Mode,1531
+6,General,1531
+6,Arming Conditions,1531
+6,Disarming Conditions,1531
+6,Engagement Conditions,1532
+6,Disengagement Conditions,1533
+6,Interactions with Vertical Modes,1533
+4,Climb,1535
+5,OP CLB Mode,1535
+6,General,1535
+6,Arming Conditions,1535
+6,Disarming Conditions,1535
+6,Engagement Conditions,1536
+6,OP CLB Association with Altitude Modes,1537
+6,Disengagement Conditions,1538
+5,CLB Mode,1539
+6,General,1539
+6,Arming Conditions,1539
+6,Disarming Conditions,1540
+6,Engagement Conditions,1540
+6,CLB Association with Altitude Modes,1541
+6,Disengagement Conditions,1543
+5,EXP CLB Mode,1545
+6,General,1545
+6,Engagement Conditions,1545
+6,Disengagement Conditions,1546
+4,Altitude,1547
+5,ALT,1547
+6,General,1547
+6,ALT Arming Conditions,1548
+6,ALT Disarming Conditions,1548
+6,ALT* Engagement Conditions,1548
+6,ALT* Disengagement Conditions,1549
+6,ALT Engagement Conditions,1549
+6,ALT Disengagement Conditions,1549
+5,ALT CST,1553
+6,General,1553
+6,ALT CST Arming Conditions,1554
+6,ALT CST Disarming Conditions,1554
+6,ALT CST* Engagement Conditions,1554
+6,ALT CST* Disengagement Conditions,1555
+6,ALT CST Engagement Conditions,1556
+6,ALT CST Disengagement Conditions,1557
+5,ALT CRZ,1559
+6,General,1559
+6,ALT CRZ Arming conditions,1560
+6,ALT CRZ Disarming Conditions,1560
+6,ALT CRZ* Engagement Conditions,1560
+6,ALT CRZ* Disengagement Conditions,1561
+6,ALT CRZ Engagement Conditions,1561
+6,ALT CRZ Disengagement Conditions,1561
+4,Descent,1563
+5,General,1563
+6,General,1563
+5,OP DES Mode,1565
+6,General,1565
+6,Engagement Conditions,1565
+6,Disengagement Conditions,1565
+5,DES Mode,1567
+6,General,1567
+6,Arming Conditions,1567
+6,Disarming Conditions,1567
+6,Engagement Conditions,1568
+6,Disengagement Conditions,1568
+6,Guidance in DES Mode,1569
+6,DES Mode Profile,1572
+5,EXP DES Mode,1579
+6,General,1579
+6,Engagement Conditions,1579
+6,Disengagement Conditions,1580
+4,V/S / FPA Mode,1581
+5,General,1581
+5,Engagement Conditions,1581
+5,Disengagement Conditions,1583
+4,Approach Modes and Landing Modes,1585
+5,General,1585
+6,General,1585
+6,ILS/GLS (If Installed)/SLS (If Installed) Guidance Mode,1586
+6,FLS Guidance Mode,1588
+6,FINAL APP Guidance Mode,1590
+5,LOC Mode,1591
+6,General,1591
+6,LOC Arming Conditions,1591
+6,LOC Disarming Conditions,1592
+6,LOC* Engagement Conditions,1593
+6,LOC* Disengagement Conditions,1595
+6,LOC Engagement Conditions,1595
+6,LOC Disengagement Conditions,1596
+5,G/S Mode,1597
+6,General,1597
+6,G/S Arming Conditions,1597
+6,G/S Disarming Conditions,1598
+6,G/S* Engagement Conditions,1599
+6,G/S* Disengagement Conditions,1600
+6,G/S Engagement Conditions,1600
+6,G/S Disengagement Conditions,1601
+5,LAND Mode,1603
+6,General,1603
+6,Engagement Conditions,1603
+6,Disengagement Conditions,1603
+5,FLARE Mode,1605
+6,General,1605
+6,Engagement Conditions,1605
+6,Disengagement Conditions,1605
+5,ROLL OUT Mode,1607
+6,General,1607
+6,Engagement Conditions,1607
+6,Disengagement Conditions,1607
+5,F-LOC Mode,1609
+6,General,1609
+6,F-LOC Arming Conditions,1609
+6,F-LOC Disarming Conditions,1610
+6,F-LOC* Engagement Conditions,1611
+6,F-LOC* Disengagement Conditions,1612
+6,F-LOC Engagement Conditions,1612
+6,F-LOC Disengagement Conditions,1613
+5,F-G/S Mode,1615
+6,General,1615
+6,F-G/S Arming Conditions,1615
+6,F-G/S Disarming Conditions,1615
+6,F-G/S* Engagement Conditions,1616
+6,F-G/S* Disengagement Conditions,1617
+6,F-G/S Engagement Conditions,1617
+6,F-G/S Disengagement Conditions,1618
+5,FINAL APP Mode,1619
+6,General,1619
+6,APP NAV and FINAL Arming Conditions,1619
+6,APP NAV and FINAL Disarming Conditions,1619
+6,APP NAV Engagement Conditions,1620
+6,APP NAV Disengagement Conditions,1620
+6,FINAL APP Engagement Conditions,1621
+6,FINAL APP Disengagement Conditions,1622
+4,Go-Around,1623
+5,General,1623
+6,General,1623
+5,SRS GA Mode,1625
+6,General,1625
+6,Engagement Conditions,1626
+6,Disengagement Conditions,1627
+5,GA TRK Mode,1629
+6,General,1629
+6,Engagement Conditions,1629
+6,Disengagement Conditions,1629
+4,AP/FD TCAS Mode,1631
+5,General,1631
+5,AP/FD TCAS Mode Availability,1631
+5,Arming Conditions,1631
+5,Disarming Conditions,1632
+5,Engagement Conditions,1632
+5,Disengagement Conditions,1633
+5,Normal Operations - When a TA is triggered,1633
+5,Normal Operations - When a RA is triggered,1634
+5,Normal Operations - When Clear of Conflict,1640
+4,AP/FD Mode Reversions,1641
+5,AP/FD Mode Reversions,1641
+4,Scenario Examples,1643
+5,Takeoff,1643
+6,Takeoff with NAV,1643
+6,Takeoff with HDG/TRK Preset,1645
+5,Climb with OP CLB Mode,1647
+6,At the Acceleration Altitude,1647
+6,The Flight Crew Pulls the ALT Knob,1648
+6,NAV Disengages,1649
+5,Climb with CLB Mode,1651
+6,At the Acceleration Altitude,1651
+6,Climbing toward an Altitude Constraint,1652
+5,Altitude with ALT,1653
+6,CLB and ALT - Example 1,1653
+6,CLB and ALT - Example 2,1654
+6,OP CLB and ALT,1655
+6,ALT in Descent with TCAS TA,1656
+5,Altitude with ALT CST,1657
+6,CLB and ALT CST,1657
+5,Altitude with ALT CRZ,1659
+6,CLB and ALT CRZ,1659
+6,OP CLB and ALT CRZ,1660
+6,ALT CRZ with TCAS TA,1661
+5,Approach and Landing,1663
+6,ILS Approach and Autoland,1663
+6,VOR Approach Flown with FLS Function,1666
+6,LOC only Approach Flown with FLS Function,1668
+6,VOR Approach Flown with FINAL APP Guidance Mode,1670
+3,22_30-50 Autothrust,1673
+4,General,1673
+5,General,1673
+4,Thrust Levers,1675
+5,Thrust Levers,1675
+4,A/THR Arming and Activation,1677
+5,Preliminary Conditions required for A/THR Arming and Activation,1677
+5,A/THR Arming,1677
+5,A/THR Activation,1680
+4,A/THR Disconnection,1685
+5,A/THR Disconnection,1685
+5,A/THR Annunciation and Warnings,1686
+4,A/THR Modes,1687
+5,General,1687
+5,THRUST mode,1687
+5,Speed/Mach Mode,1688
+5,RETARD mode,1689
+5,A/THR Mode Reversions,1690
+5,ALPHA FLOOR,1690
+4,Scenario Examples,1693
+5,From Takeoff to Thrust Reduction Altitude,1693
+5,From Soft Go-around to Thrust Reduction Altitude,1695
+3,22_30-60 Speed/MACH Control,1697
+4,General,1697
+5,General,1697
+4,Managed Speed/Mach,1699
+5,General,1699
+5,Engagement Conditions,1699
+5,Managed Speed/Mach Target,1700
+5,Ground Speed Mini Function,1702
+5,Disengagement Conditions,1704
+4,Selected Speed/Mach,1705
+5,General,1705
+5,Engagement Conditions,1705
+5,Disengagement Conditions,1706
+4,Speed/MACH FCU Window Synchronization,1707
+5,Speed/MACH FCU Window Synchronization,1707
+3,22_30-70 Approach and Landing Capability,1709
+4,General,1709
+4,Fail Concept,1711
+4,Display,1712
+3,22_30-80 Controls and Indicators,1713
+4,Autoland Light,1713
+5,Autoland Warning Light,1713
+4,FMA,1715
+5,FMA Display,1715
+5,0,1717
+5,1FD-,1717
+5,1FD2,1717
+5,A.FLOOR,1718
+5,ALT (armed),1718
+5,ALT (engaged),1718
+5,ALT*,1719
+5,ALT CRZ (armed),1719
+5,ALT CRZ (engaged),1719
+5,ALT CRZ*,1719
+5,ALT CST (armed),1720
+5,ALT CST (engaged),1720
+5,ALT CST*,1720
+5,AP1,1720
+5,AP1+2,1721
+5,AP2,1721
+5,APP NAV (armed),1721
+5,APP NAV (engaged),1721
+5,APPR1 ( SLS (if installed)),1722
+5,A/THR (activated),1722
+5,A/THR (armed),1722
+5,AUTO LAND (GLS (if installed)),1722
+5,BARO XXXXX,1723
+5,BRK LO (armed),1723
+5,BRK LO (activated),1723
+5,BRK MAX (activated),1723
+5,BRK MAX (armed) on Line 3,1724
+5,BRK MED (armed),1724
+5,BRK MED (activated),1724
+5,CAT1,1724
+5,CAT2,1725
+5,CAT3 DUAL,1725
+5,CAT3 SINGLE,1725
+5,CHECK APPR SELECTION,1726
+5,CHECK SPEED MODE,1726
+5,CLB (armed),1726
+5,CLB (engaged),1727
+5,DECELERATE,1727
+5,DES (armed),1727
+5,DES (engaged),1727
+5,DISCONNECT AP FOR LDG,1728
+5,EXP CLB,1728
+5,EXP DES,1729
+5,F-APP,1729
+5,F-APP + RAW,1729
+5,F-G/S (armed),1730
+5,F-G/S (engaged),1730
+5,F-G/S*,1730
+5,FINAL (armed),1730
+5,FINAL APP,1731
+5,FINAL APP SELECTED,1731
+5,FLARE,1731
+5,F-LOC (armed),1731
+5,F-LOC (engaged),1732
+5,F-LOC*,1732
+5,FOR GA: SET TOGA,1732
+5,FPA,1733
+5,GA TRK,1733
+5,G/S (armed),1733
+5,G/S (engaged),1733
+5,G/S*,1734
+5,HDG,1734
+5,LAND,1734
+5,LOC (armed),1734
+5,LOC (engaged),1735
+5,LOC*,1735
+5,LVR ASYM,1735
+5,LVR CLB,1735
+5,LVR MCT,1736
+5,LVR TOGA,1737
+5,MACH,1739
+5,MACH (with a flashing amber box),1739
+5,MACH SEL:.XX,1739
+5,MAN FLX XX,1739
+5,MAN GA SOFT,1740
+5,MAN MCT,1740
+5,MAN PITCH TRIM ONLY,1741
+5,MAN THR,1741
+5,MAN TOGA,1741
+5,MORE DRAG,1742
+5,MOVE THR LEVERS,1742
+5,NAV (armed),1743
+5,NAV (engaged),1743
+5,NO DH,1743
+5,OP CLB (armed),1743
+5,OP CLB (engaged),1744
+5,OP DES,1744
+5,RADIO XXX,1744
+5,RAW ONLY,1744
+5,ROLL OUT,1745
+5,RWY,1745
+5,RWY TRK,1745
+5,SET GREEN DOT SPEED,1745
+5,SET HOLD SPEED,1746
+5,SET MANAGED SPEED,1746
+5,SPEED,1746
+5,SPEED with a flashing amber box,1746
+5,SPEED SEL:XXX,1747
+5,SRS,1747
+5,TCAS (armed),1747
+5,TCAS (engaged),1747
+5,TCAS RA INHIBITED,1748
+5,T/D REACHED,1748
+5,THR CLB,1748
+5,THR IDLE,1748
+5,THR LK,1749
+5,THR LVR,1749
+5,THR MCT,1749
+5,TOGA LK,1750
+5,TRACK,1750
+5,TRK FPA DESELECTED,1750
+5,USE MAN PITCH TRIM,1750
+5,VERT DISCON AHEAD,1751
+5,V/S,1751
+3,22_30-110 Temporary Abnormal Behaviors,1753
+4,Misbehaviour of the Enhanced LOC Capture Function,1753
+4,Unexpected G/S mode armed,1754
+4,Left Turn Not Expected while in HDG or TRK Mode,1755
+4,Spurious CAT 2 INOP,1756
+2,22_40 Auto Flight - Flight Augmentation,1757
+3,Table of Contents,1757
+3,22_40-10 General,1759
+4,GENERAL,1759
+3,22_40-20 Yaw Functions,1761
+4,YAW DAMPING,1761
+4,RUDDER TRIM,1761
+4,RUDDER TRAVEL LIMITATION,1762
+3,22_40-30 Flight Envelope Function,1765
+4,GENERAL,1765
+4,PFD Speed Scale Management,1765
+4,Alpha-Floor Protection,1767
+4,Low - Energy Aural Alert,1768
+3,22_40-40 Windshear Detection Function,1769
+4,Windshear Detection Function,1769
+4,WINDSHEAR DETECTION PRINCIPLES,1769
+3,22_40-50 Controls and Indicators,1771
+4,FAC ENGAGEMENT,1771
+4,RUDDER TRIM OPERATION,1771
+2,22_45 Auto Flight - AOC Functions,1773
+3,General,1773
+3,Flight Plan Initialization Function,1774
+3,Takeoff Data Function,1778
+3,Wind Data Function,1779
+3,Flight Reports,1780
+2,22_46 Auto Flight - Print Interface,1785
+3,Print Function,1785
+3,AOC/Printer Programming Options (if installed),1787
+2,23 Communications,1789
+3,Table of Contents,1789
+3,23-10 General,1793
+4,23-10-10 Introduction,1793
+5,Introduction,1793
+5,Communication System Architecture,1794
+4,23-10-20 Radio Tuning,1797
+5,Description,1797
+5,Radio Management Panel,1798
+5,RMP Architecture,1802
+4,23-10-30 Intercommunication Systems,1805
+5,Audio Management System,1805
+5,Cabin Intercommunication Data System,1813
+4,23-10-40 Cockpit Voice Recorder,1815
+5,Description,1815
+5,Controls and Indicators,1818
+4,23-10-50 Controls,1819
+5,Audio Control Panel,1819
+5,Side Stick Radio Selector,1829
+5,Loudspeaker Volume Knob,1830
+5,Audio Switching,1831
+3,23-20 Internal Communication,1833
+4,23-20-10 Flight Crew Interphone System,1833
+5,Flight Interphone,1833
+4,23-20-20 Cabin Interphone System,1837
+5,Introduction,1837
+5,Cabin Interphone,1838
+5,Cabin Call System,1841
+4,23-20-30 Service Interphone System,1847
+5,Introduction,1847
+5,Ground Mechanic Call System,1850
+4,23-20-40 Passenger Address,1853
+5,Description,1853
+5,Controls and Indicators,1856
+3,23-30 External Communication,1863
+4,23-30-10 Radio Communication,1863
+5,Description,1863
+5,VHF,1863
+5,HF (if installed),1864
+5,SELCAL (Selective calling),1865
+5,SELCAL,1865
+3,23-40 Emergency Communication,1867
+4,23-40-10 Emergency Evacuation,1867
+5,Controls and Indicators,1867
+4,23-40-30 Emergency Locator Transmitter,1869
+5,Autonomous Distress Tracking,1869
+5,Controls and Indicators,1870
+3,23-45 Controls and Indicators,1877
+4,23-45-10 RMP - Page Description,1877
+5,HF (if installed) Page,1877
+5,MENU Page,1881
+5,RMP External Communication,1882
+5,RMP Overview,1890
+5,VHF Page,1892
+4,23-45-20 RMP - Messages,1897
+5,RMP Messages on the RMP Page Area,1897
+5,RMP Messages on the RMP Message Area,1898
+3,23-50 Memo Display,1903
+4,CIDS,1903
+4,ACARS (if installed),1903
+4,ATSU (if installed),1903
+4,AUDIO 3 XFRD,1904
+4,SATCOM (if installed),1904
+4,Loudspeakers,1904
+3,23-60 How to,1905
+4,"VHF, HF Utilization",1905
+2,24 Electrical,1909
+3,Table of Contents,1909
+3,24-10 Description,1911
+4,24-10-10 General,1911
+5,General,1911
+4,24-10-20 Generation of Electrical Power,1913
+5,AC Generators,1913
+5,DC Generation,1914
+5,Circuit Breakers (C/Bs),1915
+4,24-10-30 Operations,1917
+5,General,1917
+6,General,1917
+5,Normal Configuration,1919
+6,In Flight,1919
+6,On Ground,1920
+5,Abnormal Configurations,1923
+6,Failure of One Engine Generator,1923
+6,Failure of AC BUS 1,1924
+6,Failure of One TR,1925
+6,Failure of TR 1 and TR 2,1926
+6,Emergency Generation after Loss of All Main Generators,1927
+6,EMER GEN Running,1928
+6,EMER GEN Running (Cont'd),1929
+6,Flight with Batteries Only,1930
+6,"On Ground, Batteries Only (Speed < 50 kt)",1931
+6,Smoke Configuration,1932
+5,Distribution Table,1935
+6,Distribution Table,1935
+3,24-20 Controls and Indicators,1937
+4,Overhead Panel,1937
+4,Overhead Panel (Cont'd),1942
+4,External Power Panel,1944
+4,Forward Cabin,1945
+4,ECAM ELEC Page,1947
+4,Memo Display,1957
+3,24-30 Temporary Abnormal Behavior,1959
+4,Cockpit power outlets inoperative,1959
+2,25 Equipment,1961
+3,Table of Contents,1961
+3,25-10 Flight Deck,1963
+4,25-10-10 General,1963
+5,General,1963
+5,Principles For Pushbuttons With Integrated Indications,1964
+5,General Arrangement,1965
+4,25-10-20 Cockpit Plan,1967
+5,General,1967
+5,Right Rear Corner,1968
+5,Left Rear Corner,1969
+4,25-10-30 Seats,1971
+5,Pilot Seats,1971
+5,Pilot Seat Mechanical Adjustment,1972
+5,Pilot Seat Electrical Adjustment (if installed),1972
+5,Head Rest Adjustment (if installed),1973
+5,Armrest Adjustment,1973
+5,Observer Seat,1974
+5,Observer Seat Adjustment,1975
+5,Pilot Seat Outboard Armrest Adjustment,1976
+4,25-10-40 Main Instrument Panels,1977
+5,Main Instrument Panel - Captain Side,1977
+5,Main Instrument Panel - First Officer Side,1978
+4,25-10-50 Pedestal,1981
+5,Pedestal,1981
+4,25-10-60 Overhead Panel,1983
+5,Overhead Panel,1983
+4,25-10-70 C/B Panels,1987
+5,C/B Panels,1987
+4,25-10-80 Foot Warmer (If Installed),1989
+5,General,1989
+5,Controls,1989
+3,25-20 Emergency Equipment,1991
+4,Emergency Equipment,1991
+2,26 Fire Protection,1993
+3,Table of Contents,1993
+3,26-10 General,1995
+4,Description,1995
+3,26-20 Engines and APU,1997
+4,26-20-10 System Description,1997
+5,Fire Detection,1997
+5,Extinguishing,1998
+5,Fire Detection and Detection Fault Logic,1998
+4,26-20-20 Controls and Indicators,1999
+5,FIRE Panel,1999
+5,ENG MASTER Panel,2002
+5,EXTERNAL POWER Panel,2003
+5,MAINTENANCE Panel,2004
+3,26-30 Avionics Bay,2005
+4,26-30-10 System Description,2005
+5,Smoke Detection,2005
+4,26-30-20 Controls and Indicators,2007
+5,EMER ELEC PWR Panel,2007
+5,VENTILATION Panel,2007
+3,26-40 Lavatory,2009
+4,26-40-10 System Description,2009
+5,Smoke Detection,2009
+5,Wastebin Fire Extinguishing,2009
+3,26-50 Cargo Compartments,2011
+4,26-50-10 System Description,2011
+5,Smoke Detection,2011
+5,Fire Extinguishing,2015
+4,26-50-20 Controls and Indicators,2023
+5,CARGO SMOKE Panel,2023
+2,27 Flight Controls,2027
+3,Table of Contents,2027
+3,27-10 General,2029
+4,27-10-10 General,2029
+5,General,2029
+5,Basic Principle,2029
+5,Control Surfaces,2030
+5,Cockpit Controls,2031
+5,Computers,2031
+4,27-10-20 Architecture,2033
+5,General Architecture,2033
+5,Pitch Control,2034
+5,Roll Control,2037
+5,Speed Brakes and Ground Spoilers,2041
+5,Yaw Control,2047
+3,27-20 Flight Control System,2051
+4,27-20-10 Normal Law,2051
+5,General,2051
+6,General,2051
+5,Pitch Control,2059
+6,Ground Mode,2059
+6,Rotation Mode,2059
+6,Flight Mode,2060
+6,Flare Mode,2065
+6,Protections,2066
+5,Lateral Control,2075
+6,Normal Law,2075
+6,Bank Angle Protection,2076
+5,Load Alleviation Function,2081
+6,Load Alleviation Function (LAF),2081
+5,Sideslip Target,2083
+6,Sideslip Target,2083
+5,Aircraft Trimming,2085
+6,AIRCRAFT TRIMMING,2085
+4,27-20-20 Reconfiguration Control Laws,2087
+5,General,2087
+5,Flight Controls Law Reconfiguration,2089
+5,Alternate Law,2094
+5,Alternate Law Without Reduced Protection,2108
+5,Direct Law,2109
+5,Abnormal Attitude Laws,2110
+5,Mechanical Back-Up,2111
+4,27-20-30 Controls and Indicators,2113
+5,Pedestal,2113
+5,Lateral Consoles,2115
+5,Glareshield,2118
+5,Overhead Panel,2119
+5,Side Stick Indications On PFD,2124
+5,ECAM F/CTL Page,2125
+5,ECAM Wheel Page,2133
+5,Memo Display,2134
+3,27-30 Flaps and Slats,2135
+4,27-30-10 Description,2135
+5,General,2135
+5,Architecture,2136
+5,Configurations,2139
+5,Alpha/Speed Lock Function (Slats),2140
+4,27-30-20 Controls and Indicators,2143
+5,Pedestal,2143
+5,ECAM Upper Display,2149
+2,28 Fuel,2151
+3,Table of Contents,2151
+3,28-10 Description,2153
+4,28-10-10 General,2153
+5,GENERAL,2153
+4,28-10-20 Tanks,2155
+5,Tanks,2155
+4,28-10-30 Engine Feed,2161
+5,GENERAL,2161
+5,Main Components,2161
+5,Engine Feed,2163
+5,Fuel Feed Sequence,2167
+4,28-10-40 ACT System,2177
+5,General,2177
+5,Automatic Transfer,2177
+5,Manual Transfer,2177
+4,28-10-50 APU Feed,2181
+5,APU FEED,2181
+4,28-10-60 Fuel Recirculation System,2183
+5,Fuel Recirculation System,2183
+4,28-10-70 Refueling and Defueling,2187
+5,Refueling - Defueling,2187
+4,28-10-80 Fuel Quantity Indication and Level Sensing,2197
+5,Fuel Quantity Indication (FQI) System,2197
+5,FUEL LEVEL SENSING CONTROL UNIT (FLSCU),2199
+5,AUXILIARY FUEL MANAGEMENT SYSTEM (AFMS),2200
+5,AUXILIARY LEVEL SENSE CONTROL UNIT (ALSCU),2201
+5,Fuel System Architecture,2202
+4,28-10-90 Fuel Tank Inerting System,2205
+5,Fuel Tank Inerting System,2205
+3,28-20 Controls and Indicators,2207
+4,Overhead Panel,2207
+4,ACT Control Panel,2213
+4,External Refuel Panel,2216
+4,Refuel Panel,2220
+4,ECAM Fuel Page,2222
+4,ECAM Upper Display,2240
+4,Memo Display,2242
+2,29 Hydraulic,2243
+3,Table of Contents,2243
+3,29-10 Description,2245
+4,29-10-10 General,2245
+5,General,2245
+4,29-10-20 Generation,2247
+5,Green System Pump,2247
+5,Blue System Pumps,2247
+5,Yellow System Pumps,2247
+5,Power Transfer Unit (PTU),2247
+5,Ram Air Turbine (RAT),2247
+5,System Accumulators,2248
+5,Priority Valves,2248
+5,Fire Shutoff Valves,2248
+5,Leak Measurement Valves,2248
+5,Filters,2248
+5,Generation,2249
+5,Reservoir Pressurization,2250
+5,Indications,2251
+4,29-10-30 Distribution,2253
+5,Distribution,2253
+3,29-20 Controls and Indicators,2255
+4,Overhead Panel,2255
+4,Maintenance Panel,2258
+4,ECAM HYD Page,2259
+4,Memo Display,2265
+2,30 Ice and Rain Protection,2267
+3,Table of Contents,2267
+3,30-10 General,2269
+4,30-10-10 Description,2269
+5,General,2269
+5,Anti-Ice,2269
+5,Rain Removal,2270
+3,30-20 Wing Anti-Ice,2271
+4,30-20-10 Description,2271
+5,Description,2271
+4,30-20-20 Controls And Indicators,2273
+5,Overhead Panel,2273
+5,ECAM BLEED Page,2274
+5,Engine Warning Display,2275
+5,Memo Display,2276
+3,30-30 Engine Anti-Ice,2277
+4,30-30-10 Description,2277
+5,Description,2277
+4,30-30-20 Controls and Indicators,2281
+5,Overhead Panel,2281
+5,Engine Warning Display,2283
+5,Memo Display,2284
+3,30-40 Window Heat,2285
+4,30-40-10 Description,2285
+5,Description,2285
+4,30-40-20 Controls and Indicators,2287
+5,Overhead Panel,2287
+3,30-50 Probes Heat,2289
+4,30-50-10 Description,2289
+5,Description,2289
+4,30-50-20 Controls and Indicators,2291
+5,Overhead Panel,2291
+3,30-60 Rain Removal,2293
+4,30-60-10 Description,2293
+5,Wipers,2293
+5,Rain Repellent (if installed),2293
+4,30-60-20 Controls and Indicators,2295
+5,Overhead Panel,2295
+5,Rain Repellent (if installed) System Indicators,2296
+3,30-70 Ice Detection System,2297
+4,30-70-10 Description,2297
+5,Visual Ice Indicator,2297
+5,Ice Detection System,2297
+2,31 Indicating/Recording Systems,2299
+3,Table of Contents,2299
+3,31-05 EIS General,2303
+4,31-05-10 Introduction,2303
+5,Introduction,2303
+4,31-05-20 Cockpit Arrangement,2305
+5,Cockpit Arrangement,2305
+4,31-05-30 Architecture,2307
+5,Display Unit (DU),2307
+5,Display Management Computer (DMC),2307
+5,System Data Acquisition Concentrator (SDAC),2307
+5,Flight Warning Computer (FWC),2307
+5,Attention - Getters,2308
+5,Loudspeaker,2308
+5,EIS Block Diagram,2309
+4,31-05-40 Controls and Switching,2311
+5,ECAM Control Panel (ECP),2311
+5,EIS DMC Switching Selector,2311
+5,ECAM/ND Switching,2311
+5,EFIS Switching,2311
+4,31-05-50 Reconfiguring the DMC,2313
+5,Reconfiguring the Display Management Computer (DMC),2313
+4,31-05-60 Reconfiguring DUs,2315
+5,Failure of Upper ECAM DU (or CTL/Brightness Knob Turned to Off),2315
+5,Failure of Lower ECAM DU (or CTL/Brightness Knob Turned to Off),2315
+5,Failure of both ECAM DUs,2315
+5,PFDU/NDU Reconfiguration,2316
+5,DU Reconfiguration,2317
+5,General,2318
+5,Failure of a DU,2318
+5,Feedback Messages,2318
+5,Side1/Side2 Discrepancy Messages,2319
+5,DU Reset,2319
+3,31-10 ECAM Description,2321
+4,ECAM DU Arrangement,2321
+4,Color Code,2323
+4,Warning/Caution Classification,2324
+4,Priority Rules,2325
+4,Types of Failures,2325
+4,Audio Indicators,2326
+3,31-15 Indications on E/WD,2331
+4,General,2331
+4,Independent Failure,2339
+4,Primary and Secondary Failure,2340
+4,Flight Phases,2341
+4,Memos,2342
+4,Configuration Warnings,2344
+3,31-20 Indications on SD,2349
+4,General,2349
+4,System Pages,2349
+4,Status Page,2352
+4,Permanent Data,2355
+4,"Amber Crosses ""XX"" on the SD",2357
+4,Amber dashes on the SD,2357
+3,31-25 ECAM Sequence,2359
+4,31-25-10 General,2359
+5,General,2359
+4,31-25-20 Example,2361
+5,1 - The Ecam Detects No Failure,2361
+5,2 - The ECAM Detects a Failure,2362
+5,3 - The Flight Crew Follows the Instruction Displayed on the E/WD,2364
+5,4 - One of the Pilots Pushes the CLR Pushbutton on the ECP,2366
+5,5 - One of the Pilots Pushes the CLR Pushbutton a Second Time,2368
+5,6 - One of the Pilots Pushes the CLR Pushbutton a Third Time,2370
+3,31-27 OEB Reminder,2373
+4,General,2373
+4,Description,2373
+3,31-30 ECAM Controls,2377
+4,ECAM Control Panel,2377
+4,Switching Panel,2380
+4,Attention Getters,2381
+4,Memo Display,2382
+3,31-40 Indications on PFD,2383
+4,General,2383
+4,Specific Ground Indications,2385
+4,Attitude Data,2386
+4,Airspeed,2392
+4,Altitude,2405
+4,Altitude (CONT'D),2418
+4,Vertical Speed,2420
+4,Heading,2421
+4,Flight Path Vector,2422
+4,Guidance,2426
+4,Trajectory Deviation,2432
+4,Flight Mode Annunciator,2439
+4,Tailstrike Pitch Limit Indicator (if installed),2440
+4,Altitude Alert,2441
+4,Flags and Messages Displayed on PFD,2444
+3,31-45 Indications on ND,2449
+4,General,2449
+4,ROSE Modes,2450
+4,ROSE LS Mode,2452
+4,Rose VOR Mode,2457
+4,ROSE NAV Mode/ARC Mode,2458
+4,Plan Mode,2472
+4,Weather Radar indications,2474
+4,PWS (if installed) indications,2474
+4,GPWS,2475
+4,EGPWS,2479
+4,GPWS,2483
+4,EGPWS,2486
+4,GPWS,2494
+4,Flags and Messages Displayed on ND,2497
+3,31-50 EFIS Controls,2503
+4,EFIS Control Panel,2503
+4,Other EFIS Controls,2509
+4,Chronometer,2511
+3,31-55 Clock,2513
+4,31-55-10 General,2513
+5,General,2513
+4,31-55-20 Controls and Indicators,2515
+5,General,2515
+5,Operation in Internal Mode,2517
+3,31-60 FLT Recorders,2519
+4,31-60-10 Flight Data Recording System,2519
+5,Description,2519
+4,31-60-20 Controls and Indicators,2523
+5,Overhead Panel,2523
+5,Pedestal,2524
+4,31-60-30 Aircraft Integrated Data System,2525
+5,Description,2525
+5,Controls On Pedestal,2526
+2,32 Landing Gear,2527
+3,Table of Contents,2527
+3,32-10 Gears and Doors,2529
+4,32-10-10 Description,2529
+5,General,2529
+5,Main Landing Gear (MLG),2529
+5,Nose Landing Gear (NLG),2529
+5,Landing Gear Extension and Retraction Equipment,2530
+5,Landing Gears and Doors Operation,2532
+4,32-10-20 Landing Gear System/Interface,2535
+5,Landing Gear Control Interface Unit (LGCIU),2535
+5,Proximity Detector Output Signals,2536
+5,Proximity Detector Output Signals (Cont'd),2537
+4,32-10-30 Interactions between Landing Gear and Aircraft Systems,2539
+5,GENERAL,2539
+5,Proximity Detectors on Shock Absorbers,2539
+5,Proximity Detectors on Uplocks,2546
+5,Proximity Detectors on Doors,2546
+5,Proximity Detectors on Downlocks,2547
+5,Proximity Detectors on Cargo Doors,2548
+5,Proximity Detectors on Flaps Attachments,2548
+4,32-10-40 Controls and Indicators,2549
+5,Landing Gear Indicator Panel,2549
+5,Landing Gear Selector Lever,2550
+5,Landing Gear Gravity Extension,2551
+5,WHEEL SD Page,2552
+5,Memo Display,2553
+3,32-20 Nose Wheel Steering,2555
+4,32-20-10 Description,2555
+5,Description,2555
+5,Architecture,2556
+4,32-20-20 Controls and Indicators,2557
+5,Side Consoles,2557
+5,WHEEL SD Page,2558
+5,Memo Display,2559
+3,32-30 Brakes and Antiskid,2561
+4,32-30-10 Description,2561
+5,General,2561
+5,Anti-Skid System,2562
+5,Auto Brake,2562
+5,Braking Modes,2564
+5,Braking Schematic,2567
+4,32-30-20 Controls and Indicators,2569
+5,Center Instrument Panel,2569
+5,Auto BRK Panel,2571
+5,Brake Fan (if installed),2573
+5,Pedestal,2574
+5,WHEEL SD Page,2575
+5,Audio Indicators,2577
+5,Memo Display,2578
+3,32-40 Tire Pressure Indicating System,2579
+4,32-40-10 Description,2579
+5,Description,2579
+4,32-40-20 Controls and Indicators,2581
+5,WHEEL SD Page,2581
+2,33 Lights,2583
+3,Table of Contents,2583
+3,33-10 Cockpit Lighting,2585
+4,33-10-10 General,2585
+5,General,2585
+4,33-10-20 Description,2587
+5,Description,2587
+5,Schematic,2588
+4,33-10-30 Controls and Indicators,2589
+5,Overhead Panel,2589
+5,Maintenance Panel,2590
+5,Lateral Window,2591
+5,Pedestal,2592
+5,Glareshield,2593
+5,Main Inst Panel,2594
+3,33-20 Exterior Lighting,2595
+4,33-20-10 General,2595
+5,General,2595
+4,33-20-20 Controls and Indicators,2597
+5,Schematic,2597
+5,Overhead Panel,2598
+5,Memo Display,2600
+3,33-30 Emergency Lighting,2601
+4,33-30-10 Description,2601
+5,General,2601
+5,Proximity Emergency Escape Path Marking System/Exit Signs,2602
+4,33-30-20 Controls and Indicators,2605
+5,Controls and Indicators,2605
+3,33-40 Signs,2611
+4,33-40-10 Controls and Indicators,2611
+5,Overhead Panel,2611
+5,Memo Display,2612
+2,34-NAV Navigation,2613
+3,Table of Contents,2613
+3,34-NAV-10 ADIRS,2615
+4,34-NAV-10-10 Description,2615
+5,General,2615
+5,Probes Location,2616
+5,Probes Schematic,2617
+5,ADIRS Schematic,2618
+4,34-NAV-10-20 Controls and Indicators,2619
+5,Overhead Panel,2619
+5,Pedestal,2627
+5,Memo Display,2627
+5,Maximum Differences Between Speed/Mach Indications,2629
+5,ADIRS Operations - Status Messages,2630
+4,34-NAV-10-30 Abnormal Operations,2631
+5,34-NAV-10-30-10 Backup Speed/Altitude Scale,2631
+6,Backup Speed/Altitude Scale - General,2631
+6,Backup Speed/Altitude Scale - Backup Speed Scale,2633
+5,34-NAV-10-30-20 Digital Backup Speed/Altitude,2635
+6,Speed Monitoring Function,2635
+6,Associated Alerts and Status,2636
+6,Digital Backup Speed/Altitude,2638
+4,34-NAV-10-40 Temporary Abnormal Behaviors,2643
+5,Erroneous Mach Target Indicator on the PFD,2643
+3,34-NAV-15 GPS,2645
+4,34-NAV-15-10 Description,2645
+5,Description,2645
+3,34-NAV-20 Standby Instruments,2649
+4,Compass,2649
+4,Description of the ISIS,2650
+4,Attitude,2651
+4,Airspeed,2654
+4,Altimeter,2656
+4,Landing System Function,2658
+4,Bugs Function,2659
+4,Flags,2660
+3,34-NAV-30 Radio Nav,2663
+4,34-NAV-30-10 Tuning,2663
+5,General,2663
+5,Architecture,2664
+4,34-NAV-30-20 Navaids,2667
+5,VOR,2667
+5,ILS/GLS (if installed)/MLS (if installed),2667
+5,ADF (if installed),2668
+5,DME,2668
+5,Marker Beacon,2668
+4,34-NAV-30-30 Controls and Indicators,2669
+5,ADF (if installed) Page,2669
+5,LS Page,2672
+5,NAV Page,2678
+5,VOR Page,2681
+5,Digital Distance and Radio Magnetic Indicator (if installed) (DDRMI),2684
+5,Radio Management Panel,2685
+3,34-NAV-40 Radio Altimeter,2689
+4,34-NAV-40-10 Description,2689
+5,General,2689
+5,Automatic Callout,2689
+2,34-SURV Surveillance,2691
+3,Table of Contents,2691
+3,34-SURV-10 ATC,2695
+4,34-SURV-10-10 Description,2695
+5,Principle,2695
+5,ADS-B OUT,2697
+4,34-SURV-10-20 Controls and Indicators,2699
+5,ATC Page,2699
+5,Control Panels,2703
+3,34-SURV-30 Weather Radar,2711
+4,34-SURV-30-10 Description,2711
+5,Description,2711
+4,34-SURV-30-15 On Path Envelope Boundaries Definition,2717
+5,On Path Envelope Boundaries Definition,2717
+4,34-SURV-30-20 Predictive Windshear System,2723
+5,General,2723
+5,"Windshear Alerts During Takeoff Roll, Up to 100 knots",2726
+5,Windshear Alerts Above 50 feet,2728
+5,Windshear Alerts Inhibition,2730
+4,34-SURV-30-30 Controls and Indicators,2731
+5,Control Panel,2731
+5,Control Panel,2736
+5,Weather Radar indication on ND,2742
+5,PWS (if installed) indication on PFD and ND,2750
+5,Weather Ahead Function indication on ND,2751
+5,Weather Hazard Prediction Function Indication on ND,2753
+5,Memo Display,2757
+4,34-SURV-30-40 Temporary Abnormal Behaviors,2759
+5,Weather Radar Performance Above 80 NM,2759
+3,34-SURV-40 GPWS,2761
+4,34-SURV-40-10 Description,2761
+5,Overview,2761
+5,Principle,2761
+4,34-SURV-40-20 GPWS Basics Modes,2763
+5,Mode 1 : Excessive Rate of Descent,2763
+5,Mode 2 : Excessive Terrain Closure Rate,2764
+5,Mode 3 : Altitude Loss After Takeoff,2765
+5,Mode 4 : Unsafe Terrain Clearance when Not in Landing Configuration,2766
+5,Mode 5 : Descent Below Glideslope,2768
+4,34-SURV-40-35 Predictive GPWS Functions,2769
+5,Terrain Awareness and Display,2769
+5,Terrain Caution and Warning Envelope,2773
+5,Terrain Clearance Floor,2774
+5,Runway Field Clearance Floor,2776
+5,General,2777
+5,Alerts,2778
+5,Alerts Envelopes,2781
+5,Inhibition Logic of the GPWS Predictive Functions in Approach,2787
+4,34-SURV-40-40 Controls and Indicators,2793
+5,Overhead Panel,2793
+5,Instrument Panels,2797
+5,Memo Display,2802
+3,34-SURV-50 ROW/ROP,2803
+4,34-SURV-50-10 General,2803
+5,General,2803
+4,34-SURV-50-20 Description,2805
+5,Description,2805
+4,34-SURV-50-30 Controls and Indicators,2813
+5,Controls and Indicators,2813
+3,34-SURV-60 TCAS,2815
+4,34-SURV-60-10 Description,2815
+5,Overview,2815
+5,Principle,2815
+5,Main Components,2816
+5,Intruder Detection Categories,2820
+5,TCAS Modes,2822
+5,AP/FD TCAS,2824
+5,Advisory Inhibition,2825
+5,TCAS INTRUDER WITH NO REPORTED ALTITUDE,2826
+4,34-SURV-60-20 Controls and Indicators,2827
+5,ATC/TCAS Panel,2827
+5,ATC Page,2831
+5,ND Indications,2834
+5,Messages on ND,2836
+5,PFD Indications,2838
+5,Aural Messages,2839
+5,Memo Display,2841
+4,34-SURV-60-30 Temporary Abnormal Behaviors,2843
+5,Undue NAV TCAS FAULT,2843
+2,35 Oxygen,2845
+3,Table of Contents,2845
+3,35-10 General,2847
+4,Description,2847
+3,35-20 Fixed Oxygen System for Cockpit,2849
+4,35-20-10 Description,2849
+5,General,2849
+5,Operation,2850
+5,Schematic,2851
+5,Mask Setting,2853
+5,Mask Stowage,2854
+4,35-20-20 Controls and Indicators,2857
+5,Overhead Panel,2857
+5,Stowage Box,2858
+5,Crew Oxygen Mask,2859
+5,Pressure Regulator,2860
+5,ECAM DOOR/OXY Page,2863
+4,35-20-30 How to,2867
+5,How to Test the Mask,2867
+3,35-30 Fixed Oxygen System for Cabin,2871
+4,35-30-10 Description,2871
+5,General,2871
+5,Operation,2871
+5,Schematic,2872
+4,35-30-20 Controls and Indicators,2873
+5,Overhead Panel,2873
+5,Overhead Maintenance Panel,2874
+5,Memo Display,2874
+3,35-40 Portable Oxygen System,2875
+4,35-40-10 Description,2875
+5,Flight Crews Portable Oxygen System,2875
+5,Using the Hood,2879
+2,36 Pneumatic,2883
+3,Table of Contents,2883
+3,36-10 Description,2885
+4,36-10-10 General,2885
+5,General,2885
+4,36-10-20 Engine Bleed System,2887
+5,General,2887
+5,Architecture,2888
+5,Air Bleed Selection,2890
+5,Pressure Regulation and Limitation,2892
+5,Temperature Regulation and Limitation,2897
+4,36-10-30 APU Bleed Air Supply,2899
+5,General,2899
+4,36-10-40 Crossbleed,2901
+5,General,2901
+5,ECAM Indication,2901
+4,36-10-50 Leak Detection,2903
+5,Leak Detection,2903
+4,36-10-60 Operation Following Failures,2907
+5,BMC Failure,2907
+3,36-20 Controls and Indicators,2909
+4,Overhead Panel,2909
+4,ECAM Bleed Page,2917
+4,Memo Display,2924
+2,38 Water / Waste,2925
+3,Table of Contents,2925
+3,38-10 Description,2927
+4,General,2927
+4,Potable Water,2927
+4,Wastewater System,2929
+4,Toilet System,2930
+2,45 Maintenance System,2933
+3,Table of Contents,2933
+3,45-10 Description,2935
+4,General,2935
+4,Components,2935
+4,Modes of Operation,2935
+4,Architecture,2936
+4,Failure/Fault Classification,2937
+4,Functions of the Centralized Fault Display System (CFDS),2938
+4,Cockpit/CFDS Interface,2939
+3,45-20 System Operation,2941
+4,Maintenance Menu,2941
+4,Last (or Current) Leg Report,2943
+4,Last (or Current) Leg ECAM Report,2944
+4,Previous Leg Report,2946
+4,Avionics Status,2947
+4,System Report/Test,2948
+4,GMT/Date Initialization,2949
+4,Backup Mode,2951
+4,ACARS Print Program,2953
+3,45-25 Data Loading,2955
+4,General,2955
+4,Data Loading Selector on the Overhead Panel,2958
+3,45-30 Printer,2959
+4,General,2959
+4,System Description,2960
+2,46 Information Systems,2961
+3,Table of Contents,2961
+3,46-10 Datalink,2967
+4,46-10-10 General System Description,2967
+5,Overview,2967
+5,Architecture,2980
+5,Cockpit Interface,2994
+5,Datalink Message,2995
+4,46-10-20 AOC Applications,3005
+5,46-10-20-10 General,3005
+6,General,3005
+4,46-10-30 ATC Applications,3007
+5,46-10-30-10 Notifications,3007
+6,Notification,3007
+5,46-10-30-20 Controller/Pilot Datalink Communication (CPDLC),3009
+6,General,3009
+6,Connect,3011
+6,Request,3012
+6,Position Report,3013
+6,Monitoring,3014
+6,Message Modify,3015
+6,Edit,3015
+6,MAX Uplink Delay (on FANS A connection),3016
+6,Message Timer,3017
+6,Emergency,3019
+5,46-10-30-30 Automatic Dependent Surveillance - Contract (ADS-C),3021
+6,ADS-C,3021
+5,46-10-30-40 Departure Clearance (DCL),3023
+6,Departure Clearance,3023
+5,46-10-30-45 CPDLC Departure Clearance (CPDLC-DCL),3025
+6,CPDLC Departure Clearance (CPDLC-DCL),3025
+5,46-10-30-50 Oceanic Clearance (OCL),3027
+6,Oceanic Clearance,3027
+5,46-10-30-55 CPDLC Oceanic Clearance (CPDLC-OCL),3029
+6,CPDLC Oceanic Clearance (CPDLC-OCL),3029
+5,46-10-30-60 Digital - Automatic Terminal Information Service (D-ATIS),3031
+6,ATS623 Digital- Automatic Terminal Information Service (D-ATIS),3031
+6,Digital - ATIS,3032
+5,46-10-30-70 Message Record,3033
+6,Message Record,3033
+4,46-10-40 Controls and Indicators,3035
+5,46-10-40-10 ATC Message Pushbutton (ATC MSG PB),3035
+6,ATC MSG Pb,3035
+5,46-10-40-15 Audio indicators,3037
+6,Audio indicators,3037
+5,46-10-40-20 Datalink Control and Display Unit (DCDU),3039
+6,DCDU,3039
+5,46-10-40-30 MCDU Datalink Pages,3055
+6,Introduction,3055
+6,ADS-C DETAIL,3060
+6,ATC LAT REQ,3061
+6,ATC MENU,3065
+6,ATC OTHER REQ,3068
+6,ATC REJ INFO,3069
+6,ATC REPORTS,3070
+6,ATC SPEED REQ PAGE,3071
+6,ATC VERT REQ,3074
+6,ATIS AUTO-UPDATE,3079
+6,ATIS MENU,3080
+6,ATIS REPORT,3081
+6,ATSU DATALINK,3082
+6,BRAKING ACTION,3086
+6,CLEARANCE REQ,3089
+6,COMM CONFIG,3091
+6,COMM MENU,3094
+6,CONNECTION,3097
+6,CONNECTION STATUS,3099
+6,CONTACT REQ,3101
+6,DATALINK STATUS,3102
+6,DE-ICING REQ,3107
+6,DEPART REQ,3108
+6,EDIT,3112
+6,EMERGENCY,3113
+6,D-ATIS AUTO UPDATE,3116
+6,D-ATIS MENU,3117
+6,D-ATIS REPORT,3118
+6,DUPLICATE NAMES,3119
+6,FLIGHT REQ,3120
+6,FREE TEXT,3122
+6,GROUND REQ,3125
+6,FREQUENCY REPORTING,3127
+6,MAX UPLINK DELAY,3128
+6,MODIFY,3129
+6,MONITORED MSG,3130
+6,MSG RECORD,3131
+6,NOTIFICATION,3134
+6,OCEANIC REQ,3137
+6,POSITION REPORT,3140
+6,PROCEDURE REQ PAGE,3143
+6,PUSH/START REQ PAGE,3145
+6,REQUEST,3146
+6,REPORTS PAGE,3147
+6,USUAL REQ,3149
+6,TAXI REPORTS,3151
+6,TAXI REQ,3152
+6,TEXT,3153
+6,VHF3 DATA MODE,3156
+6,VHF3 SCAN SELECT,3160
+6,WHEN CAN WE EXPECT,3168
+5,46-10-40-40 MCDU Scratchpad Messages,3169
+6,MCDU Scratchpad Messages,3169
+5,46-10-40-50 MCDU Data Entry Format,3177
+6,MCDU Data Entry Format,3177
+5,46-10-40-60 ECAM,3185
+6,Memo Display,3185
+4,46-10-50 How To,3187
+5,Introduction,3187
+5,How to Initialize,3188
+5,How to Notify,3199
+5,How to Connect,3203
+5,How to Send Request to ATC,3208
+5,How to Answer,3215
+5,How to Send Position Report,3230
+5,How to Obtain DCL,3233
+5,How to Obtain OCL,3249
+5,How to Obtain D-ATIS,3262
+5,How to Load Messages,3271
+5,How to Answer Messages,3276
+5,How to Monitor Messages,3279
+5,How to Manage Open Negotiation Messages,3284
+5,How to Manage Confirm MSG,3287
+5,How to Send EMER MSG,3290
+5,How to Manage Temporary Loss of Datalink Connection,3292
+5,How to Manage Abnormal Disconnections,3294
+5,How to Modify FLT Plan,3295
+4,46-10-60 Temporary Abnormal Behaviors,3299
+5,A/C TYPE not available in the Departure Clearance page,3299
+5,MCDU Freeze due to ATC COM page displayed on two MCDUs,3299
+5,ATC MSG RECORD NOT RELIABLE - Displayed at ATSU Power-up,3300
+5,Erroneous Display of ACTIVE ATC ICAO Code on the DCDU and MCDU,3301
+3,46-40 Pax Entertainment & Connectivity Systems (If Installed),3303
+4,46-40-10 General,3303
+5,General,3303
+4,46-40-20 In Seat Power Supply System,3305
+5,IN SEAT POWER SUPPLY SYSTEM (if installed),3305
+4,46-40-30 Controls and Indicators,3307
+5,MOBILE COM PB-SW (if installed),3307
+5,DISC IN PROG Light (if installed),3308
+5,CINS RESET PB (if installed),3309
+5,PAX COM PB-SW (if installed),3310
+5,PAX SYS PB-SW (if installed),3311
+5,PAX PERSONAL ELEC SPLY PB-SW (if installed),3312
+5,MEMO DISPLAY,3313
+2,49 APU,3315
+3,Table of Contents,3315
+3,49-10 Description,3317
+4,49-10-10 General,3317
+5,General,3317
+4,49-10-20 Main Components,3319
+5,APU Engine,3319
+5,Electronic Control Box,3319
+5,Air Intake System,3319
+5,Starter,3319
+5,Fuel System,3319
+5,Oil System,3320
+5,Inlet Guide Vanes (IGV),3320
+5,Air Bleed System,3320
+5,Controls,3320
+5,Ground Operation Safety Devices,3320
+3,49-20 Controls and Indicators,3321
+4,Overhead Panel,3321
+4,External Controls,3325
+4,ECAM APU Page,3326
+4,Memo Display,3327
+2,52 Doors,3329
+3,Table of Contents,3329
+3,52-10 Description,3331
+4,52-10-10 General,3331
+5,Description,3331
+4,52-10-20 Passenger Doors,3335
+5,General,3335
+5,Outside,3336
+5,Inside,3337
+4,52-10-30 Emergency Exits,3339
+5,Cockpit,3339
+5,Cabin,3341
+4,52-10-40 Cargo Doors,3347
+5,General,3347
+5,Fwd and Aft Cargo Doors,3347
+5,Bulk Cargo Door (if installed),3347
+5,Location of Service Panels,3348
+4,52-10-50 Avionics Compartment Access Door,3349
+5,Avionics Compartment Access Door,3349
+4,52-10-60 Cockpit Door,3351
+5,Cockpit Door,3351
+4,52-10-80 Escape Slides/Rafts,3353
+5,Door Slides,3353
+5,Wing Slides,3354
+5,Escape Slide Arrangement,3356
+3,52-20 Controls and Indicators,3363
+4,DOOR/OXY SD Page,3363
+3,52-40 Cockpit Door Security System,3367
+4,52-40-10 Description,3367
+5,Cockpit Door Description,3367
+4,52-40-20 Cockpit Door Locking System (CDLS),3369
+5,COCKPIT DOOR LOCKING SYSTEM (CDLS),3369
+5,Controls,3371
+4,52-40-30 Cockpit Door Surveillance System (CDSS),3379
+5,General,3379
+5,Controls,3382
+3,52-50 How to,3387
+4,How to Operate the Cockpit Door,3387
+4,How to Operate the Fwd and Aft Cargo Door,3389
+4,How to Operate the Fwd and Aft Cargo Doors (Auxiliary Operation),3390
+3,52-70 Temporary Abnormal Behaviors,3391
+4,Erroneous Activation of the Cabin Pressure Warning Lights without Residual differential Pressure,3391
+2,56 Cockpit Windows,3393
+3,Table of Contents,3393
+3,56-10 General,3395
+4,General,3395
+3,56-20 Fixed Windows,3397
+4,Fixed Windows,3397
+3,56-30 Sliding Windows,3399
+4,Sliding Windows,3399
+3,56-40 Description,3401
+4,Description,3401
+2,70 Engines,3403
+3,Table of Contents,3403
+3,70-05 Overview,3407
+4,Overview,3407
+3,70-10 System Description,3409
+4,Engine,3409
+4,Engine,3410
+4,LP Compressor Turbine Assembly,3412
+4,HP Compressor Turbine Assembly,3412
+4,Combustion Chamber,3413
+4,Accessory Gearbox,3413
+3,70-20 FADEC,3415
+4,General,3415
+4,Architecture,3416
+4,Functions,3418
+4,Idle Control,3421
+3,70-30 Thrust Control System (CFM+PW),3423
+4,70-30-10 General,3423
+5,General,3423
+4,70-30-20 Thrust Levers,3425
+5,Thrust Levers,3425
+4,70-30-30 Thrust Rating Limit,3427
+5,Thrust Rating Limit,3427
+4,70-30-40 Thrust Control,3429
+5,Manual Mode,3429
+5,Automatic Mode,3432
+5,Thrust Control Malfunction Logic,3432
+3,70-40 Fuel System (CFM56),3433
+4,General,3433
+4,Fuel pump Unit,3435
+4,Shut-Off Valves,3435
+4,Hydromechanical Unit,3435
+4,IDG Cooling System,3438
+3,70-41 Fuel System (LEAP-1A),3443
+4,General,3443
+4,Main Fuel Pump,3445
+4,Split Control Unit/Servo Valve Assembly,3445
+4,Fuel Metering Unit,3446
+3,70-50 Oil System,3447
+4,General,3447
+3,70-60 Airbleed System (CFM56),3451
+4,General,3451
+4,Cooling,3452
+3,70-61 Airbleed System (LEAP-1A),3453
+4,General,3453
+4,Engine Compartment Cooling,3457
+4,Engine Stability,3457
+4,Engine Start Bleed and Booster Ice Protection,3458
+4,Reverse Bleed System,3458
+3,70-70 Thrust Reverser System,3459
+4,General,3459
+4,Actuation Logic,3462
+4,Protection,3463
+4,Schematic,3465
+3,70-80 Ignition and Starting,3469
+4,70-80-10 General,3469
+5,General,3469
+4,70-80-20 Architecture,3471
+5,Architecture,3471
+4,70-80-30 Ignition System,3473
+5,General,3473
+5,Ignition for Starting,3474
+5,Continuous Ignition,3477
+4,70-80-40 Engine Starting System,3479
+5,General,3479
+5,Automatic Starting,3479
+5,Automatic Starting Sequence,3481
+5,Manual Starting,3484
+5,Engine Ventilation (Dry Cranking),3485
+3,70-90 Controls and Indicators,3487
+4,70-90-10 Overhead Panel,3487
+5,ENG MAN START Panel,3487
+4,70-90-20 Pedestal,3489
+5,ENG MODE Selector and ENG MASTER Levers,3489
+5,Thrust Levers,3491
+4,70-90-30 Maintenance Panel,3493
+5,ENG FADEC GND PWR Panel,3493
+4,70-90-40 Engine Display,3495
+5,Engine/Warning Display,3495
+5,ENG SD Page,3506
+4,70-90-50 Memo Display,3515
+5,Memo Display,3515
+3,70-95 Temporary Abnormal Behaviours,3517
+4,Erroneous Detection of Engine Fuel Leak,3517
+1,Procedures,3519
+2,Table of Contents,3519
+2,Abnormal and Emergency Procedures,3545
+3,INTRODUCTION,3545
+4,Content,3545
+4,Procedure Layout,3547
+4,Abnormal and Emergency Callouts,3553
+3,[ADV] ECAM ADVISORY,3557
+4,ECAM Advisory Conditions,3557
+3,[MEM] MEMORY ITEMS,3565
+4,[MEM] Memory Items,3565
+3,[QRH] PROCEDURES,3567
+4,[QRH] Procedures,3567
+3,A-ICE,3571
+4,[QRH] DOUBLE AOA HEAT FAILURE,3571
+4,ANTI ICE ALL PITOT,3571
+4,ANTI ICE CAPT(F/O) TAT,3574
+4,ANTI ICE CAPT + F/O AOA,3575
+4,ANTI ICE CAPT + F/O PITOT,3577
+4,ANTI ICE CAPT + STBY AOA,3579
+4,ANTI ICE CAPT + STBY PITOT,3581
+4,ANTI ICE CAPT PITOT,3583
+4,ANTI ICE CAPT L(R) STAT,3585
+4,ANTI ICE CAPT AOA,3586
+4,ANTI ICE CAPT PROBES,3588
+4,ANTI ICE DETECT FAULT,3589
+4,ANTI ICE ENG 1(2) CTL FAULT (ENG 1(2) A.ICE VALVE OPEN),3590
+4,ANTI ICE ENG 1(2) CTL FAULT (ENG 1(2) A.ICE MON FAULT),3591
+4,ANTI ICE ENG 1(2) OVER PRESS,3592
+4,ANTI ICE ENG 1(2) VALVE CLSD,3593
+4,ANTI ICE ENG 1(2) VALVE OPEN,3594
+4,ANTI ICE F/O + STBY AOA,3595
+4,ANTI ICE F/O + STBY PITOT,3597
+4,ANTI ICE F/O PITOT or L( R) STAT or AOA,3599
+4,ANTI ICE F/O PROBES,3601
+4,ANTI ICE ICE DETECTED,3602
+4,ANTI ICE L + R WINDSHIELD,3603
+4,ANTI ICE L(R) WINDOW,3604
+4,ANTI ICE L(R) WINDSHIELD,3605
+4,ANTI ICE STBY PITOT or L(R) STAT or AOA,3606
+4,ANTI ICE STBY PROBES,3608
+3,AIR,3609
+4,[QRH] Engine 1+2 Bleed Fault,3609
+4,[QRH] BLEED 1+2 FAULT,3613
+4,AIR APU BLEED FAULT,3618
+4,AIR APU BLEED LEAK,3619
+4,AIR APU BLEED LEAK APU LEAK FED BY ENG,3620
+4,AIR APU LEAK DET FAULT,3621
+4,AIR BLEED 1(2) OFF,3622
+4,█ AIR BLEED LEAK █,3623
+4,AIR COND CTL 1(2) - A(B) FAULT,3624
+4,AIR ENG 1(2) BLEED ABNORM PR,3625
+4,AIR ENG 1(2) BLEED FAULT,3628
+4,AIR ENG 1(2) BLEED FAULT BLEED NOT CLOSED,3633
+4,AIR ENG 1+2 BLEED FAULT,3636
+4,AIR ENG 1+2 BLEED FAULT LEFT LEAK,3638
+4,AIR ENG 1+2 BLEED FAULT RIGHT LEAK,3639
+4,AIR ENG 1+2 BLEED FAULT LEFT LEAK and RIGHT LEAK,3641
+4,AIR ENG 1(2) BLEED LO TEMP (Opposite Bleed Available),3642
+4,AIR ENG 1(2) BLEED LO TEMP (Opposite Bleed not Available),3643
+4,AIR ENG 1+2 BLEED LO TEMP,3645
+4,AIR ENG 1(2) BLEED HI TEMP,3647
+4,AIR ENG 1(2) BLEED LEAK,3650
+4,AIR ENG 1(2) BLEED NOT CLSD,3653
+4,AIR ENG 1(2) HP VALVE FAULT,3654
+4,AIR ENG 1(2) LEAK DET FAULT,3655
+4,AIR FWD(AFT) CRG VENT FAULT (if installed),3657
+4,AIR L(R) WING LEAK,3658
+4,AIR L(R) WNG LEAK DET FAULT,3660
+4,AIR PACK 1(2) FAULT,3661
+4,AIR PACK 1+2 FAULT,3662
+4,AIR PACK 1(2) OFF,3667
+4,AIR PACK 1(2) OVHT,3668
+4,AIR PACK 1(2) REGUL FAULT,3669
+4,AIR X BLEED FAULT,3672
+3,APU,3675
+4,APU AUTO (EMER) SHUT DOWN,3675
+4,APU FIRE DET FAULT,3676
+4,APU FIRE LOOP A(B) FAULT,3677
+3,APU FIRE,3679
+4,█ APU FIRE █,3679
+3,AUTO FLT,3681
+4,AUTO FLT A/THR LIMITED,3681
+4,AUTO FLT A/THR OFF,3682
+4,█ AUTO FLT AP OFF █,3683
+4,AUTO FLT FAC 1(2) FAULT,3684
+4,AUTO FLT FAC 1 + 2 FAULT,3685
+4,AUTO FLT FAC VERSIONS DISAGREE,3694
+4,AUTO FLT FCU 1(2) FAULT,3695
+4,AUTO FLT FCU 1 + 2 FAULT,3696
+4,AUTO FLT FMGC VERSIONS DISAGREE,3699
+4,AUTO FLT REAC W/S DET FAULT,3700
+4,AUTO FLT RUD TRIM 1(2) FAULT,3701
+4,AUTO FLT RUD TRIM SYS,3702
+4,AUTO FLT RUD TRV LIM 1(2),3704
+4,AUTO FLT RUD TRV LIM SYS,3705
+4,AUTO FLT TCAS MODE FAULT,3708
+4,AUTO FLT YAW DAMPER 1(2),3709
+4,AUTO FLT YAW DAMPER SYS,3710
+3,AVIONICS SMOKE,3717
+4,AVIONICS SMOKE,3717
+3,BLEED,3719
+4,BLEED MONITORING FAULT,3719
+4,BLEED MONIT SYS 1(2) FAULT,3720
+3,BRAKES,3721
+4,█ [MEM] LOSS OF BRAKING █,3721
+4,[QRH] ASYMMETRIC BRAKING,3722
+4,[QRH] RESIDUAL BRAKING,3722
+4,BRAKES A/SKID N/WS FAULT or A/SKID N/WS OFF,3723
+4,BRAKES ALTN BRK FAULT,3724
+4,BRAKES ALTN L(R) RELEASED,3725
+4,BRAKES AUTO BRK FAULT,3726
+4,BRAKES BRK Y ACCU LO PR,3728
+4,BRAKES HOT,3729
+4,BRAKES NORM + ALTN FAULT,3731
+4,BRAKES NORM BRK FAULT,3732
+4,BRAKES PARK BRK FAULT (if installed),3734
+4,BRAKES PARK BRK LO PR,3735
+4,BRAKES PARK BRK ON,3736
+4,BRAKES RELEASED,3737
+4,BRAKES SYS 1(2) FAULT,3738
+3,BRAKES-N/WS,3739
+4,BRAKES-N/WS MINOR FAULT,3739
+3,CAB PR,3741
+4,[QRH] CABIN OVERPRESSURE,3741
+4,█ CAB PR EXCESS CAB ALT █,3742
+4,█ CAB PR EXCES RESIDUAL PR █,3747
+4,CAB PR LDG ELEV FAULT,3748
+4,CAB PR LO DIFF PR,3749
+4,CAB PR OFV NOT OPEN,3750
+4,CAB PR SAFETY VALVE OPEN,3751
+4,CAB PR SYS 1(2) FAULT,3753
+4,CAB PR SYS 1+2 FAULT,3754
+3,C/B,3757
+4,C/B TRIPPED,3757
+3,COM,3759
+4,COM ACARS FAULT (if installed),3759
+4,COM ACP 3 FAULT,3760
+4,COM ADT FAULT,3761
+4,COM AMU PART FAULT,3762
+4,COM CAPT(F/O)(3RD OCC)( 4TH OCC (if installed)) PTT STUCK,3763
+4,COM CIDS 1 + 2 FAULT,3764
+4,COM ELT EMITTING,3765
+4,COM ELT FAULT,3766
+4,COM ELT FAULT ELT MONITORING LOSS,3767
+4,COM HF 1(2) DATA FAULT (if installed),3768
+4,COM RMP 1(2) FAULT,3769
+4,COM RMP 1+2 FAULT,3770
+4,COM RMP 1(2) OFF,3771
+4,COM SATCOM DATA FAULT (if installed),3773
+4,COM SATCOM FAULT (if installed),3774
+4,COM SINGLE PTT STUCK (if installed),3775
+4,COM VHF 1(2)(3) /HF 1(2) EMITTING (if installed),3778
+4,COM VHF 3 DATA FAULT (if installed),3779
+3,COND,3781
+4,[QRH] TOO HOT COCKPIT AND CABIN TEMPERATURE IN FLIGHT,3781
+4,COND FWD CAB/AFT CAB/CKPT DUCT OVHT,3781
+4,COND FWD(AFT) CARGO DUCT OVHT (if installed),3783
+4,COND FWD(AFT) CRG HEAT FAULT (if installed),3784
+4,COND FWD(AFT) CRG ISOL VALVE (if installed),3785
+4,COND HOT AIR FAULT,3786
+4,COND L+R CAB FAN FAULT,3788
+4,COND LAV + GALLEY FAN FAULT,3789
+4,COND TRIM AIR SYS FAULT,3791
+3,CONFIG,3793
+4,█ CONFIG L(R) SIDESTICK FAULT (By Take Over) █,3793
+4,█ CONFIG PARK BRK ON █,3794
+4,█ CONFIG PITCH TRIM NOT IN T.O RANGE █,3795
+4,█ CONFIG RUD TRIM NOT IN T.O RANGE █,3796
+4,█ CONFIG SLATS (FLAPS) NOT IN T.O CONFIG █,3797
+4,█ CONFIG SPD BRK NOT RETRACTED █,3798
+3,DATALINK,3799
+4,DATALINK ATC FAULT,3799
+4,DATALINK ATSU FAULT,3800
+4,DATALINK COMPANY FAULT,3801
+3,DOOR,3803
+4,[QRH] COCKPIT DOOR FAULT,3803
+4,DOOR L(R)(FWD)(AFT) AVIONICS (In flight),3804
+4,DOOR L(R)(FWD)(AFT) AVIONICS (On ground),3805
+4,DOOR L(R) FWD(AFT) CABIN (In flight),3806
+4,DOOR L(R) FWD(AFT) CABIN (On ground),3808
+4,DOOR L(R) FWD(AFT) EMER EXIT (In flight),3809
+4,DOOR L(R) FWD(AFT) EMER EXIT (On ground),3812
+4,DOOR L(R) OVERWNG EXIT (In flight),3814
+4,DOOR L(R) OVERWNG EXIT (On ground),3815
+4,DOOR L(R) OVERWNG FAULT,3816
+4,DOOR FWD(AFT)(BULK) CARGO (In flight),3817
+4,DOOR FWD(AFT)(BULK) CARGO (On ground),3819
+3,EIS,3821
+4,[QRH] Display Unit Failure,3821
+4,EIS DMC 1(2)(3) FAULT,3825
+4,EIS DMC/FWC COM FAULT,3826
+3,ELEC,3827
+4,[QRH] C/B Tripped,3827
+4,[QRH] ELEC EMER CONFIG SYS REMAINING,3827
+4,ELEC AC BUS 1 FAULT,3833
+4,ELEC AC BUS 2 FAULT,3837
+4,ELEC AC ESS BUS ALTN,3840
+4,ELEC AC ESS BUS FAULT,3841
+4,ELEC AC ESS BUS SHED,3843
+4,ELEC APU GEN FAULT,3845
+4,ELEC BAT 1(2) FAULT,3847
+4,ELEC BAT 1(2) OFF,3848
+4,ELEC BCL 1(2) FAULT,3849
+4,ELEC DC BAT BUS FAULT,3850
+4,ELEC DC BUS 1 FAULT,3855
+4,ELEC DC BUS 2 FAULT,3859
+4,ELEC DC BUS 1+2 FAULT,3868
+4,ELEC DC EMER CONFIG,3877
+4,ELEC DC ESS BUS FAULT,3884
+4,ELEC DC ESS BUS SHED,3896
+4,█ ELEC EMER CONFIG █,3899
+4,ELEC EMER GEN 1 LINE OFF,3911
+4,█ ELEC ESS BUSES ON BAT █,3912
+4,ELEC GEN 1(2) or APU GEN OVERLOAD,3913
+4,ELEC GEN 1(2) FAULT,3914
+4,ELEC GEN 1(2) OFF,3915
+4,ELEC IDG 1(2) DISCONNECTED,3917
+4,ELEC IDG 1(2) OIL LO PR/OVHT,3919
+4,ELEC STATIC INV FAULT,3921
+4,ELEC TR 1(2) FAULT,3922
+3,ENG,3923
+4,[QRH] ENG RELIGHT IN FLIGHT,3923
+4,█ [QRH] ALL ENG FAIL █,3929
+4,█ [QRH] ENG DUAL FAILURE - FUEL REMAINING █,3944
+4,█ [QRH] ENG DUAL FAILURE - NO FUEL REMAINING █,3950
+4,[QRH] ENG 1(2) STALL,3954
+4,[QRH] ENGINE TAILPIPE FIRE,3956
+4,[QRH] HIGH ENGINE VIBRATION,3957
+4,[QRH] On Ground - Non ENG Shutdown after ENG Master OFF,3960
+4,[QRH] One Engine Inoperative - Circling Approach,3961
+4,[QRH] One Engine Inoperative - Straight-In Approach,3965
+4,█ ENG ALL ENGINES FAILURE █,3966
+4,ENG FUEL CONTAMINATED,3971
+4,ENG 1(2) BLEED STATUS FAULT (In Flight),3975
+4,ENG 1(2) BLEED STATUS FAULT (On Ground),3976
+4,ENG COMPRESSOR VANE,3978
+4,ENG 1(2) COMPRESSOR VANE,3980
+4,ENG 1(2) CTL SYS FAULT,3981
+4,ENG 1(2) CTL VALVE FAULT,3983
+4,█ ENG DUAL FAILURE █,3986
+4,ENG 1(2) EIU FAULT,3989
+4,ENG 1(2) FADEC A(B) FAULT,3992
+4,ENG 1(2) FADEC ALTERNATOR,3993
+4,ENG 1(2) FADEC BLOWER FAULT,3994
+4,ENG 1(2) FADEC FAULT,3995
+4,ENG 1(2) FADEC HI TEMP,3998
+4,ENG 1(2) FADEC IDENT FAULT,4001
+4,ENG 1(2) FADEC SYS FAULT,4002
+4,ENG 1(2) FAN COWL NOT CLSD,4003
+4,ENG 1(2) FAIL,4004
+4,█ ENG 1(2) FIRE (In Flight) █,4011
+4,█ ENG 1(2) FIRE (On Ground) █,4013
+4,ENG 1(2) FIRE DET FAULT,4015
+4,ENG 1(2) FIRE LOOP A(B) FAULT,4016
+4,ENG 1(2) FUEL CTL FAULT,4017
+4,ENG 1(2) FUEL FILTER CLOG,4019
+4,ENG 1(2) FUEL FILTER - PARTLY CLOGGED,4020
+4,ENG 1(2) FUEL FILTER DEGRAD,4021
+4,ENG 1(2) FUEL LEAK,4022
+4,ENG 1(2) FUEL RETURN VALVE,4023
+4,ENG 1(2) FUEL SENSOR FAULT,4026
+4,ENG 1(2) FUEL STRAINER CLOG,4027
+4,ENG GA SOFT FAULT,4028
+4,ENG 1(2) HIGH VIBRATION,4029
+4,ENG 1(2) HOT AIR DET FAULT,4030
+4,ENG 1(2) HOT AIR LEAK,4031
+4,ENG 1(2) HP FUEL VALVE,4032
+4,ENG 1(2) IGN FAULT (IGN A or B Fault),4034
+4,ENG 1(2) IGN FAULT (IGN A+B FAULT),4035
+4,ENG 1(2) LO START AIR PRESS,4036
+4,ENG 1(2) LOW N1 (On Ground),4037
+4,ENG 1(2) MINOR FAULT,4039
+4,ENG 1(2) N1 or N2 or EGT or FF DISCREPANCY,4040
+4,ENG 1(2) N1/N2/EGT OVER LIMIT,4041
+4,ENG 1(2) NO LIGHT UP,4044
+4,ENG 1(2) OIL CHIP DETECTED,4045
+4,ENG 1(2) OIL FILTER CLOG,4046
+4,ENG 1(2) OIL FILTER - PARTLY CLOGGED,4047
+4,ENG 1(2) OIL HI TEMP,4048
+4,█ ENG 1(2) OIL LO PR █,4049
+4,ENG 1(2) OIL LO TEMP,4052
+4,ENG 1(2) OIL SENSOR FAULT,4053
+4,ENG 1(2) ONE TLA FAULT,4054
+4,ENG 1(2) OVSPD PROT FAULT,4055
+4,ENG 1(2) OVTHR PROT FAULT,4056
+4,ENG 1(2) PROBES FAULT,4057
+4,ENG 1(2) REV INHIBITED,4059
+4,ENG 1(2) REV ISOL FAULT,4060
+4,ENG 1(2) REV LOCKED (on Ground),4061
+4,ENG 1(2) REV MINOR FAULT,4062
+4,ENG 1(2) REV PRESSURIZED,4063
+4,ENG REV SET,4065
+4,ENG 1(2) REV SWITCH FAULT,4066
+4,ENG 1(2) REVERSE UNLOCKED,4067
+4,ENG 1(2) REVERSER CTL FAULT,4071
+4,ENG 1(2) REVERSER FAULT,4072
+4,ENG SAT ABOVE FLEX TEMP,4073
+4,ENG 1(2) SENSOR FAULT,4074
+4,ENG 1(2) SHUT DOWN,4076
+4,ENG 1(2) STALL,4087
+4,ENG 1(2) START FAULT,4089
+4,ENG 1(2) START VALVE FAULT,4104
+4,ENG 1(2) TIP CTL FAULT,4111
+4,█ ENG 1(2) THR LEVER ABV IDLE █,4112
+4,ENG 1(2) THR LEVER DISAGREE,4113
+4,ENG 1(2) THR LEVER FAULT,4118
+4,ENG THR LEVERS NOT SET,4123
+4,ENG THR LEVERS NOT SET (ON GROUND),4124
+4,ENG THR LEVERS NOT SET (AT GO-AROUND),4126
+4,ENG THRUST LOCKED,4127
+4,ENG TYPE DISAGREE,4128
+4,ENG VIB SYS FAULT,4129
+3,F/CTL,4131
+4,[QRH] Landing with Slats or Flaps Jammed,4131
+4,[QRH] RUDDER JAM,4138
+4,[QRH] STABILIZER JAM,4139
+4,F/CTL AIL SERVO FAULT,4140
+4,F/CTL ALTN LAW,4141
+4,F/CTL DIRECT LAW,4147
+4,F/CTL ELAC 1(2) FAULT (One Computer Failed),4150
+4,F/CTL ELAC 1(2) FAULT (Both Computers Failed),4152
+4,F/CTL ELAC 1(2) PITCH FAULT (One Computer Failed),4159
+4,F/CTL ELAC 1(2) PITCH FAULT (Both Computer Failed),4161
+4,F/CTL ELAC PITCH FAULT,4162
+4,F/CTL ELEV REDUND DEGRDD,4163
+4,F/CTL ELEV SERVO FAULT,4164
+4,F/CTL FCDC 1(2) FAULT,4165
+4,F/CTL FCDC 1+2 FAULT,4166
+4,F/CTL FLAP ATTACH SENSOR,4167
+4,F/CTL FLAPS FAULT/LOCKED,4168
+4,█ F/CTL FLAP LVR NOT ZERO █,4172
+4,F/CTL FLAP SYS 1(2) FAULT,4173
+4,F/CTL FLAP/MCDU DISAGREE,4174
+4,F/CTL FLAPS/SLATS FAULT/LOCKED,4175
+4,F/CTL GND SPLR 5 FAULT,4179
+4,F/CTL GND SPLR 1+2(3+4) FAULT,4180
+4,F/CTL GND SPLR NOT ARMED,4181
+4,F/CTL L(R) AIL FAULT,4182
+4,F/CTL L(R) ELEV FAULT,4183
+4,█ F/CTL L+R ELEV FAULT █,4190
+4,F/CTL L(R) SIDESTICK FAULT,4194
+4,F/CTL PITCH TRIM/MCDU/CG DISAGREE,4195
+4,F/CTL SEC 1(2)(3) FAULT,4196
+4,F/CTL SIDESTICK PRIORITY,4202
+4,F/CTL SLAT(FLAP) TIP BRK FAULT,4204
+4,F/CTL SLATS AND FLAPS FAULT IN CONF 0,4204
+4,F/CTL SLATS FAULT/LOCKED,4211
+4,F/CTL SLAT SYS 1(2) FAULT,4220
+4,F/CTL SPD BRK 2 (3+4) FAULT,4221
+4,F/CTL SPD BRK DISAGREE (Surfaces 3+4 affected),4222
+4,F/CTL SPD BRK DISAGREE (Surfaces 2+3+4 affected),4223
+4,F/CTL SPD BRK FAULT,4224
+4,F/CTL SPD BRK STILL OUT,4225
+4,F/CTL SPLR FAULT,4226
+4,F/CTL STABILIZER JAM,4231
+3,FUEL,4239
+4,[QRH] ACT SYSTEM FAULT,4239
+4,[QRH] ACT XFR FAULT,4240
+4,[QRH] FUEL IMBALANCE,4241
+4,[QRH] FUEL LEAK,4243
+4,[QRH] FUEL OVERREAD,4249
+4,[QRH] FWD ACT ISOLATED,4250
+4,[QRH] GRAVITY FUEL FEEDING,4251
+4,FUEL ACT PUMP LO PR,4253
+4,FUEL ACT SYSTEM FAULT,4254
+4,FUEL ACT XFR FAULT (if installed),4255
+4,FUEL ACT PUMP LO PR (if installed),4257
+4,FUEL APU LP VALVE FAULT,4258
+4,FUEL AUTO FEED FAULT,4259
+4,FUEL AUTO TRANSFER FAULT,4260
+4,FUEL CTR L(R) XFR FAULT,4261
+4,FUEL CTR L + R XFR FAULT (Valves not Fully Closed),4264
+4,FUEL CTR L + R XFR FAULT (Valves not Fully Open),4265
+4,FUEL CTR TK PUMP 1(2) LO PR,4266
+4,FUEL CTR TK PUMPS LO PR,4267
+4,FUEL CTR TK PUMPS OFF,4268
+4,FUEL CTR TK XFR OFF,4269
+4,FUEL ENG 1(2) LP VALVE FAULT,4270
+4,FUEL ENG 1(2) LP VALVE OPEN,4271
+4,FUEL F. USED/FOB DISAGREE,4272
+4,FUEL FQI CH 1(2) FAULT,4273
+4,FUEL FQI CH 1+2 FAULT,4274
+4,FUEL FWD ACT ISOLATED,4275
+4,FUEL FWD ACT LINE FAULT,4276
+4,FUEL IDG 1(2) COOL FAULT,4277
+4,FUEL FUEL INERTING SYS FAULT,4278
+4,FUEL L (R) OUTER (INNER) TK HI TEMP,4279
+4,FUEL L (R) OUTER (INNER) TK LO TEMP,4282
+4,FUEL L (R) OUTER XFR CLOSED,4283
+4,FUEL L (R) OUTER XFR OPEN,4284
+4,FUEL L (R) TK PUMP 1(2) LO PR,4285
+4,FUEL L (R) TK PUMP 1 + 2 LO PR,4286
+4,FUEL L (R) TK PUMP 1 + 2 LO PR (Center Tank Empty),4289
+4,FUEL L (R) TK PUMP 1 + 2 LO PR (Center Tank not Empty),4293
+4,FUEL L (R) WING TK HI TEMP,4295
+4,FUEL L (R) WING TK LO LVL,4296
+4,FUEL L + R WING TK LO LVL,4298
+4,FUEL L (R) WING TK LO TEMP,4301
+4,FUEL L (R) WING TK OVERFLOW,4302
+4,FUEL LO LVL DET FAULT,4305
+4,FUEL X FEED VALVE FAULT,4306
+3,FWS,4307
+4,FWS AUDIO DEGRADED,4307
+4,FWS AUDIO REDUND LOST ON FWC 1(2),4308
+4,FWS FWC 1 + 2 FAULT,4309
+4,FWS FWC 1(2) FAULT,4311
+4,FWS OEB/FWC DISCREPANCY,4312
+4,FWS SDAC 1 + 2 FAULT,4313
+4,FWS SDAC 1(2) FAULT,4314
+4,FWS SLAT (FLAP) SYNCHRO FAULT,4315
+3,HYD,4317
+4,HYD B ELEC PUMP LO PR or OVHT,4317
+4,HYD B RSVR LO AIR PR,4319
+4,HYD B RSVR LO LVL,4321
+4,HYD B RSVR OVHT,4322
+4,HYD G ENG 1 PUMP LO PR (PTU Operative),4324
+4,HYD G ENG 1 PUMP LO PR (PTU Inoperative),4325
+4,HYD G RSVR LO AIR PR,4327
+4,HYD G RSVR LO LVL,4330
+4,HYD G RSVR OVHT,4332
+4,HYD Y ELEC PUMP LO PR or OVHT,4336
+4,HYD Y ENG 2 PUMP LO PR (PTU Operative),4338
+4,HYD Y ENG 2 PUMP LO PR (PTU Inoperative),4339
+4,HYD Y RSVR LO AIR PR,4340
+4,HYD Y RSVR LO LVL,4344
+4,HYD Y RSVR OVHT,4347
+4,█ HYD B+Y SYS LO PR █,4352
+4,█ HYD G+B SYS LO PR █,4366
+4,█ HYD G+Y SYS LO PR █,4381
+4,HYD PTU FAULT,4392
+4,HYD RAT FAULT,4393
+3,L/G,4395
+4,[QRH] Landing with Abnormal L/G,4395
+4,[QRH] L/G GRAVITY EXTENSION,4399
+4,L/G DOORS NOT CLOSED,4401
+4,█ L/G GEAR NOT DOWN █,4403
+4,█ L/G GEAR NOT DOWNLOCKED █,4404
+4,L/G GEAR NOT UPLOCKED,4406
+4,L/G GEAR UPLOCK FAULT,4409
+4,L/G LGCIU 1(2) FAULT,4411
+4,L/G LGCIU 1+2 FAULT,4413
+4,L/G SHOCK ABSORBER FAULT (Shock Absorber Extended on Ground),4417
+4,L/G SHOCK ABSORBER FAULT (Shock Absorber not Extended after Liftoff),4418
+4,L/G SYS DISAGREE,4420
+3,MISC,4423
+4,█ [MEM] EMER DESCENT █,4423
+4,█ [MEM] Stall Recovery █,4424
+4,█ [MEM] Stall Warning At Liftoff █,4425
+4,[QRH] BOMB ON BOARD,4426
+4,[QRH] COCKPIT WINDSHIELD / WINDOW ARCING,4432
+4,[QRH] COCKPIT WINDSHIELD / WINDOW CRACKED,4433
+4,█ [QRH] DITCHING █,4435
+4,█ [QRH] EMER EVAC █,4439
+4,█ [QRH] EMER LANDING ALL ENG FAILURE █,4441
+4,█ [QRH] FORCED LANDING █,4443
+4,[QRH] Overweight Landing,4447
+4,[QRH] Severe Turbulence,4448
+4,[QRH] TAILSTRIKE,4455
+4,[QRH] VOLCANIC ASH ENCOUNTER,4455
+3,NAV,4461
+4,[MEM] Unreliable Speed Indication,4461
+4,[QRH] ADR 1+2+3 FAULT,4481
+4,[QRH] ADR CHECK PROC,4484
+4,█ [QRH] ALL ADR OFF █,4485
+4,[QRH] IR ALIGNMENT IN ATT MODE,4489
+4,NAV AIR SPD STS CHANGED,4492
+4,NAV ADR 1(2)(3) FAULT,4495
+4,NAV ADR 1+2(1+3)(2+3) FAULT,4498
+4,█ NAV ADR 1+2+3 FAULT █,4509
+4,NAV ADR ALT DISAGREE,4517
+4,NAV ADR DISAGREE,4518
+4,NAV ADS-B RPTG 1(2) FAULT,4527
+4,█ NAV ALL SPD UNCERTAIN █,4528
+4,NAV ALT DISCREPANCY,4530
+4,NAV ALTI DISCREPANCY,4531
+4,NAV AOA DISAGREE,4532
+4,NAV CAPT(F/O)(STBY) AOA FAULT,4533
+4,NAV ATC/XPDR 1(2) FAULT,4534
+4,NAV ATC/XPDR 1+2 FAULT,4535
+4,NAV ATC/XPDR 2 CTL FAULT,4538
+4,NAV ATC/XPDR STBY,4539
+4,NAV ATT DISCREPANCY,4540
+4,NAV BARO REF DISCREPANCY,4541
+4,NAV BARO VALUE DISAGREE,4542
+4,NAV BKUP SPD/ALT ON CAPT(F/O) PFD,4543
+4,NAV BKUP SPD/ALT ON CAPT+F/O PFD,4545
+4,NAV BKUP SPD FAULT,4546
+4,NAV BKUP SPD UNCERTAIN,4547
+4,NAV FLS 1(2)(1+2) FAULT,4548
+4,NAV FM/GPS POS DISAGREE (if installed),4549
+4,NAV GLS 1(2)(1+2) FAULT,4553
+4,NAV GPS 1(2) FAULT (if installed),4554
+4,NAV GPWS FAULT,4555
+4,NAV GPWS TERR DET FAULT,4556
+4,NAV HDG DISCREPANCY,4557
+4,NAV IAS DISCREPANCY,4558
+4,NAV ILS 1(2)(1+2) FAULT,4559
+4,NAV IR 1(2)(3) FAULT,4560
+4,NAV IR 1+2(1+3)(2+3) FAULT,4562
+4,NAV IR DISAGREE,4567
+4,NAV IR NOT ALIGNED,4572
+4,NAV LS 1(2)(1+2) FAULT,4573
+4,NAV LS TUNING DISAGREE,4574
+4,NAV NOT ON FMS RUNWAY,4575
+4,█ NAV ON TAXIWAY █,4576
+4,NAV PRED W/S DET FAULT (if installed),4577
+4,NAV RA 1 AND 2 FAULT (Dual RA Failure),4578
+4,NAV RA 1(2) FAULT,4581
+4,NAV RA DEGRADED,4582
+4,NAV TCAS FAULT,4583
+4,NAV TCAS STBY,4584
+4,NAV L(R) CAPT(F/O) STATIC FAULT,4585
+4,█ Stall Warning █,4586
+3,OVERSPEED,4587
+4,█ OVERSPEED █,4587
+3,RECORDER,4589
+4,RECORDER CVR FAULT- ANNUNCIATION,4589
+4,RECORDER FDR FAULT,4591
+4,RECORDER SYS FAULT,4593
+3,SEVERE ICE,4595
+4,SEVERE ICE DETECTED,4595
+3,SMOKE,4597
+4,█ [QRH] SMOKE / FUMES / AVNCS SMOKE █,4597
+4,█ [QRH] REMOVAL OF SMOKE / FUMES █,4608
+4,[QRH] SMOKE / FIRE FROM LITHIUM BATTERY,4612
+4,█ SMOKE AFT CARGO SMOKE (if installed) █,4613
+4,SMOKE AFT CRG DET FAULT (if installed),4619
+4,SMOKE DISCH AGENT 2 (if installed),4620
+4,█ SMOKE FWD CARGO SMOKE (if installed) █,4621
+4,SMOKE FWD(AFT) CRG BTL 1(2) FAULT (if installed),4627
+4,SMOKE FWD CRG DET FAULT (if installed),4628
+4,SMOKE DET FAULT,4629
+4,SMOKE LAVATORY DET FAULT,4630
+4,█ SMOKE LAVATORY SMOKE █,4631
+3,SURV,4633
+4,[MEM] TAWS CAUTION,4633
+4,█ [MEM] TAWS WARNING █,4635
+4,[MEM] TCAS CAUTION - TRAFFIC ADVISORY,4635
+4,█ [MEM] TCAS WARNING - RESOLUTION ADVISORY █,4637
+4,█ [MEM] WINDSHEAR WARNING - REACTIVE WINDSHEAR █,4642
+4,SURV ROW/ROP LOST,4643
+3,T.O,4645
+4,█ T.O RWY TOO SHORT █,4645
+4,T.O RWY TOO SHORT,4646
+4,T.O SPEEDS NOT INSERTED,4647
+4,T.O SPEEDS TOO LOW,4648
+4,T.O V1/VR/V2 DISAGREE,4649
+3,VENT,4651
+4,VENT AVNCS SYS FAULT,4651
+4,VENT BLOWER FAULT,4652
+4,VENT EXTRACT FAULT,4654
+4,VENT SKIN VALVE FAULT,4655
+3,WHEEL,4661
+4,[QRH] WHEEL TIRE DAMAGE SUSPECTED,4661
+4,WHEEL HYD SEL FAULT,4662
+4,WHEEL N/W STRG FAULT,4663
+4,WHEEL TYRE LO PR (if installed),4664
+3,WING A.ICE,4665
+4,WING A.ICE L(R) HI PR,4665
+4,WING A.ICE L(R) VALVE OPEN (Failure Detected in Flight),4666
+4,WING A.ICE L(R) VALVE OPEN (Failure Detected on Ground),4667
+4,WING A.ICE L(R) WING LO PR,4669
+4,WING A.ICE OPEN ON GND,4671
+4,WING A.ICE SYS FAULT,4672
+3,Detailed Cockpit Evacuation Procedure,4675
+4,General,4675
+4,Cockpit-Assigned Duties for Evacuation,4675
+4,Communications,4676
+4,On Ground Evacuation,4677
+4,Cockpit Evacuation through Window,4678
+2,Normal Procedures,4679
+3,Standard Operating Procedures,4679
+4,General Information,4679
+5,Foreword,4679
+4,Flight Preparation,4681
+5,GPS PRIMARY Availability (If Installed),4681
+4,Safety Exterior Inspection,4683
+5,Safety Exterior Inspection,4683
+4,Preliminary Cockpit Preparation,4685
+5,General,4685
+5,Aircraft Setup,4686
+5,Batteries Check/External Power,4687
+5,APU Fire Test/APU Start,4688
+5,ADIRS,4691
+5,ADIRS,4694
+5,Cockpit Lights,4694
+5,EFB/ACARS (If Installed) Initialization,4695
+5,AIRCRAFT ACCEPTANCE,4697
+5,Preliminary Performance Determination,4698
+5,Before Walkaround,4699
+4,Exterior Walkaround,4703
+5,General,4703
+5,Exterior Walkaround,4704
+4,Cockpit Preparation,4715
+5,General,4715
+5,Flow Pattern,4716
+5,Overhead Panel,4717
+5,CTR Instrument Panel,4725
+5,Pedestal,4726
+5,ATC Datalink Communication,4729
+5,FMGS Preparation,4730
+5,Glareshield,4738
+5,Lateral Consoles,4739
+5,Instrument Panels,4739
+5,ECAM Control Panel,4740
+5,ADIRS,4740
+5,Fuel on Board,4741
+5,Departure Briefing,4741
+5,PC Dedicated to Maintenance (if installed),4741
+5,Cockpit Preparation Checklist,4741
+4,Before Pushback or Start,4743
+5,Before Pushback/Start Clearance,4743
+5,At Pushback/Start Clearance,4746
+4,Engine Start,4749
+5,Automatic Engine Start,4749
+5,Ground Run Up - Danger Areas,4753
+4,After Start,4755
+5,After Start (All Engines Taxi at Departure),4755
+5,After Start (One Engine Taxi At Departure),4759
+4,Taxi,4765
+5,All Engines Taxi at Departure,4765
+5,One Engine Taxi At Departure,4771
+4,Departure Change,4783
+5,Departure Change,4783
+4,Before Takeoff,4785
+5,Before Takeoff,4785
+4,Takeoff,4791
+5,Takeoff,4791
+4,After Takeoff,4803
+5,After Takeoff,4803
+4,Climb,4805
+5,Climb,4805
+4,Cruise,4811
+5,Cruise,4811
+4,Descent Preparation,4815
+5,Descent Preparation,4815
+4,Descent,4829
+5,Descent Initiation,4829
+5,Descent Monitoring,4830
+5,Descent Adjustment,4831
+5,Approach Checklist,4834
+4,Approach,4835
+5,Approach General,4835
+6,Introduction,4835
+6,Cross-Reference Table,4835
+6,Flying Reference,4839
+6,Stabilization Criteria,4839
+6,Approach Speed Technique,4841
+6,Discontinued Approach,4841
+5,Aircraft Configuration Management,4843
+6,Initial Approach,4843
+6,Intermediate/Final Approach,4846
+5,Aircraft Guidance Management,4855
+6,Approach using LOC G/S Guidance,4855
+6,Approach using F-LOC F-G/S Guidance,4862
+6,Approach using FINAL APP Guidance,4868
+6,Approach using FINAL APP Guidance for RNAV(RNP),4878
+6,Approach using FPA Guidance,4889
+6,Circling Approach,4894
+6,RNAV Visual Approach,4897
+6,Visual Approach,4898
+4,Landing,4901
+5,Manual Landing,4901
+5,Autoland,4906
+4,Go-Around,4913
+5,Go Around with FD,4913
+4,After Landing,4919
+5,After Landing,4919
+4,One Engine Taxi At Arrival,4927
+5,One Engine Taxi At Arrival,4927
+4,Parking,4931
+5,Parking,4931
+4,Securing the Aircraft,4939
+5,Securing the Aircraft,4939
+3,Standard Callouts,4943
+4,Communications and Standard Terms,4943
+4,Checklist Callouts,4943
+4,Actions Commanded by PF,4943
+4,FMA,4945
+4,Altitude,4945
+4,Flaps or Gear Callouts,4946
+4,Flight Parameters,4947
+4,PF/PM Duties Transfer,4953
+4,Summary for Each Phase,4953
+3,Tasksharing,4961
+4,General Information,4961
+4,Safety Exterior Inspection,4962
+4,Preliminary Cockpit Preparation,4962
+4,Cockpit Preparation,4965
+4,Before Pushback or Start,4972
+4,Engine Start,4973
+4,After Start (All Engine Taxi at Departure),4974
+4,After Start (One Engine Taxi at Departure),4974
+4,All Engine Taxi at departure,4975
+4,One Engine Taxi At Departure,4978
+4,DEPARTURE CHANGE,4980
+4,Before Takeoff,4981
+4,Takeoff,4982
+4,After Takeoff,4983
+4,Climb,4984
+4,Cruise,4984
+4,Descent Preparation,4985
+4,Descent,4987
+4,Approach,4988
+4,Manual Landing,5001
+4,Automatic Landing,5003
+4,GO AROUND With FD ON,5005
+4,After Landing,5007
+4,One Engine Taxi At Arrival,5007
+4,Parking,5009
+4,Securing the Aircraft,5011
+3,Supplementary Procedures,5013
+4,Supplementary Procedures Menu,5013
+5,Supplementary Procedures,5013
+4,Adverse Weather,5015
+5,Airframe Deicing/Anti-Icing Procedure on Ground,5015
+5,Ground Operations in Cold Weather Conditions,5019
+5,Ground Operations in Heavy Rain,5022
+5,Engine Operations on Ground in Icing Conditions,5023
+5,Minimum Speed with Ice Accretion,5030
+5,Operations on Contaminated Airports,5030
+5,"Operations with Volcanic Ash, Sand or Dust",5034
+5,Securing the Aircraft for Cold Soak,5041
+5,For Draining Water Procedure,5042
+5,Water System Draining,5043
+4,Engines,5045
+5,Manual Engine Start,5045
+5,Engine Start with an Air Start Unit,5052
+5,Crossbleed Engine Start,5055
+5,Air Conditioning during Automatic Engine Start,5057
+5,Engine Start Valve Manual Operation,5058
+5,Engine Ventilation (Dry Cranking),5063
+4,Fuel,5065
+5,Refueling,5065
+5,Refueling with One Engine Running,5067
+5,Ground Fuel Transfer,5071
+5,Defueling,5078
+4,GPS Interference,5083
+5,GPS Interference,5083
+4,L/G,5093
+5,Flight With Landing Gear Down,5093
+6,Flight With Landing Gear Down,5093
+5,Operation with Nosewheel Steering Offset,5107
+6,Operation with Nosewheel Steering Offset,5107
+4,Miscellaneous,5109
+5,Flight Without Cabin Pressurization,5109
+6,Flight Without Cabin Pressurization,5109
+5,High Altitude Airport Operations,5115
+6,High Altitude Airport Operations,5115
+5,Operations at QNH above 1050 hPa (31.00 inHg),5117
+6,General,5117
+6,Procedures,5117
+6,Standby Altitude Correction,5119
+5,Pushback with Power Push Unit,5123
+6,Pushback with Power Push Unit Via the Main Landing Gear,5123
+4,Surveillance,5127
+5,Automatic Dependent Surveillance - Broadcast (ADS-B),5127
+3,Systems Related Procedures,5129
+4,FMS,5129
+5,Introduction,5129
+6,Introduction,5129
+5,Cockpit Preparation,5131
+6,FMGS Initialization,5131
+6,Flight Plan Initialization,5138
+6,FMGS Data Insertion,5171
+6,FMGS Re-Initialization After a Canceled Flight,5183
+5,Before Pushback or Start,5185
+6,Change of Runway,5185
+6,TAKEOFF FROM INTERSECTION,5189
+5,Taxi,5191
+6,FCU Selection for Takeoff,5191
+6,FMA Mode Check,5191
+6,Selecting a Navigation Display,5194
+6,Selecting Takeoff Displays for Pilot's and Copilot's MCDU,5196
+5,Takeoff,5197
+6,Monitoring the Takeoff,5197
+6,PRESELECTING A HDG OR A TRK,5198
+6,Normal Takeoff Profile,5199
+6,No Flight Director Takeoff,5200
+6,TAKEOFF WITH NO V2 ENTRY,5201
+6,Takeoff Using the Localizer of the Opposite Runway,5202
+5,Climb,5205
+6,Monitoring the Climb Phase,5205
+6,Expedite Climb,5221
+6,Immediate Return to Origin Airport,5222
+5,Cruise,5225
+6,Reaching Cruise Flight Level,5225
+6,Monitoring the Navigation Accuracy,5226
+6,Monitoring the Fuel Predictions,5228
+6,Entering a Step Climb or a Step Descent,5230
+6,Immediate Change of Level in Cruise,5236
+6,Preparation for Descent and Approach,5237
+5,Descent,5257
+6,DESCENT INITIATION,5257
+6,Descent Monitoring,5258
+6,Expedite Descent (If installed),5275
+6,Monitoring the Navigation in the Terminal Control Area,5275
+6,Too Steep Path,5276
+6,Holding Pattern,5280
+6,MANUAL TERMINATION,5281
+5,Approach,5283
+6,Initial Approach,5283
+6,ILS/MLS/GLS/FLS/SLS Approach,5289
+6,Switching from Non ILS to ILS Approach,5304
+6,Switching from Non PRECISION to ILS/GLS/ SLS (if installed) Approach,5305
+6,Switching from GLS/ SLS (if installed) to ILS Approach,5306
+6,Landing Categories,5307
+6,Landing Capabilities,5308
+6,Landing Categories,5309
+6,Warnings for Approach,5310
+6,Warnings for ILS/GLS Approach,5312
+6,Warnings for ILS Approach,5313
+5,Go-Around,5315
+6,Monitoring the Go-Around,5315
+6,Go-Around Profile,5318
+6,Missed Approach: Try Again,5319
+6,Missed Approach: Divert,5319
+6,Task Sharing During a Go-Around,5321
+2,Special Operations,5323
+3,40 Extended Range Operations,5323
+4,40-30 Dispatch Consideration,5323
+5,ETOPS Critical Fuel Reserves,5323
+5,Check of CAS for L/G Safety Valve Closure,5323
+4,40-40 Diversion During Extended Range Operations,5325
+5,Diversion Decision Making,5325
+4,40-50 Procedures,5327
+5,General,5327
+5,Normal Procedures,5327
+5,Abnormal and Emergency Procedures,5328
+4,40-60 Performance,5331
+5,Maximum Diversion Distance,5331
+3,45 Engine Intermix Operations,5337
+4,Engine Intermix Type 1,5337
+4,Engine Intermix Type 2,5339
+3,50 Reduced Vertical Separation Minimum - RVSM,5343
+4,General,5343
+4,Required Equipments/Functions for RVSM,5343
+4,RVSM Normal Procedure,5344
+4,RVSM Abnormal and Emergency Procedure,5346
+3,51 Performance-Based Navigation (PBN),5347
+4,General,5347
+4,RNAV 10 / RNP 10,5347
+4,RNAV 5 / BRNAV,5349
+4,RNAV 1 RNAV 2 / P-RNAV - Terminal RNAV,5350
+4,RNP 4,5352
+4,RNP 2 in Oceanic and Remote Continental Area,5353
+4,RNP 2 in Domestic Area,5355
+4,RNP 1 / Terminal RNP 1- Basic RNP 1,5356
+4,RNP APCH / RNAV(GNSS),5357
+4,RNP AR / RNAV(RNP),5359
+3,52 Performance-Based Communication and Surveillance (PBCS),5365
+4,General,5365
+4,Requirements,5365
+4,Procedure,5366
+3,53 4D Operations,5367
+4,General,5367
+4,Descent Preparation,5367
+3,60 Operations on Narrow Runways,5369
+4,General,5369
+4,Limitations,5369
+4,Procedures,5371
+3,85 Simultaneous Parallel Approach Operations,5373
+4,Overview,5373
+4,Break out Turn and Climb Procedure,5374
+4,Break out Turn and Descent Procedure,5375
+1,Limitations,5377
+2,Table of Contents,5377
+2,Introduction,5381
+3,Introduction,5381
+2,Aircraft General,5383
+3,Flight Maneuvering Load Acceleration Limits,5383
+4,Flight Maneuvering Load Acceleration Limits,5383
+3,Operational Parameters,5385
+4,Environmental Envelope,5385
+4,Environmental Envelope,5386
+4,Environmental Envelope,5387
+4,Environmental Envelope,5388
+4,Airport Operations and Wind Limitations,5388
+3,Speeds,5395
+4,Cockpit Window Open Maximum Speed,5395
+4,Maximum Flaps/Slats Speeds,5395
+4,Maximum Operating Speed VMO/MMO,5396
+4,Maximum Speeds with the Landing Gear Extended,5397
+4,Maximum Tire Speed,5397
+4,Minimum Control Speeds,5397
+4,Minimum Control Speeds on Narrow Runways,5400
+4,Taxi Speed,5400
+4,Wipers Maximum Operating Speed,5401
+3,Weights,5403
+4,Weight Limitations,5403
+4,Center of Gravity Limits with up to 3 ACTs installation,5405
+2,Air Bleed/Cond/Press/Vent,5409
+3,General,5409
+3,APU Bleed Use with HP Air Start Unit,5409
+3,Avionics Ventilation,5409
+3,Cabin Pressure,5410
+3,Packs Use with LP Air Conditioning Unit,5411
+2,Auto Flight System,5413
+3,General,5413
+4,Autopilot Function,5413
+4,Flight Management Function,5414
+4,Use of NAV Mode,5416
+4,Use of FLS (if installed),5418
+4,Navigation Database Validation,5419
+3,"Automatic Approach, Landing and Rollout",5421
+4,ILS Category II,5421
+4,Special Authorization CAT II (SA CAT II),5421
+4,Other than Standard CAT II (OTS CAT II),5421
+4,ILS Category III Fail Passive (Single),5421
+4,ILS Category III Fail Operational (Dual),5422
+4,Engine-Out,5423
+4,GLS Category I,5423
+4,Maximum Wind Conditions for ILS/MLS (if installed) CAT II or CAT III and for GLS (if installed) CAT I,5424
+4,Automatic Landing,5426
+4,Automatic Landing in Johannesburg,5428
+2,Auxiliary Power Unit,5429
+3,General,5429
+3,APU Start/Shutdown during Refueling/Defueling,5429
+3,Operational Envelope,5430
+2,Braking Action Computation Function,5433
+3,BACF,5433
+2,Cabin Systems,5435
+3,Power Supply for Portable Electronic Device (PED),5435
+2,Communication,5437
+3,GSM Onboard (if installed),5437
+2,Engines,5439
+3,Thrust Setting/EGT Limits,5439
+3,Shaft Speeds,5439
+3,Oil,5440
+3,Starter,5442
+3,Reverse Thrust,5443
+3,Reduced Thrust Takeoff,5443
+3,Crosswind Operation on Ground,5445
+3,Soft Go-Around,5445
+2,Flight Controls,5447
+3,Flight Maneuvering Load Acceleration Limits,5447
+3,Maximum Altitude Flaps/Slats Extended,5447
+3,Maximum Flaps/Slats Speeds,5447
+3,Use of Flight Controls,5447
+2,Fuel,5449
+3,Certified Fuel,5449
+3,Fuel Temperature,5449
+3,Fuel Temperature Limits when JP4 and JET B Fuels are Used,5450
+3,Maximum Allowed Fuel Imbalance,5450
+3,Minimum Fuel Quantity for Takeoff,5452
+2,Ice and Rain Protection,5453
+3,Definition of Icing Conditions,5453
+3,Definition of Severe Ice Accretion,5453
+3,Definition of Thin Hoarfrost,5453
+3,Rain Repellent (if installed),5453
+3,Wipers Maximum Operating Speed,5453
+2,Landing Gear,5455
+3,Braking System,5455
+3,Brake Temperature,5455
+3,Maximum Speeds with the Landing Gear Extended,5455
+3,Maximum Tire Speed,5455
+3,Nosewheel Steering (NWS),5455
+3,Taxi with Deflated or Damaged Tires,5456
+2,Navigation,5457
+3,Inertial Reference System (IRS),5457
+2,Oxygen,5459
+3,Minimum Flight Crew Oxygen Pressure,5459
+2,ROW/ROP,5465
+3,ROW/ROP,5465
+2,Surveillance,5467
+3,GPWS / Predictive GPWS (if installed),5467
+1,Temporary Abnormal Behaviors,5469
+2,Temporary Abnormal Behaviors Table,5469
+1,Performance (EFB),5473
+2,Table of Contents,5473
+2,Loading,5477
+3,FUL FUEL,5477
+4,USE OF MANUAL MAGNETIC INDICATORS (MMI),5477
+2,Takeoff,5503
+3,Takeoff Performance Optimization,5503
+4,General,5503
+4,Takeoff Parameters,5503
+3,Thrust Options,5505
+4,Takeoff at Maximum Thrust,5505
+5,TOGA Thrust,5505
+4,Flexible and Derated Takeoff,5507
+5,General,5507
+6,General,5507
+5,Flexible Takeoff,5509
+6,Flexible Takeoff Definition,5509
+6,Flexible Takeoff Principle,5509
+6,Flexible Takeoff Limitations,5511
+5,Derated Takeoff (If Installed),5513
+6,Derated Takeoff Principle,5513
+6,Derated Takeoff Limitation,5514
+5,Flexible Takeoff vs Derated Takeoff,5515
+6,Flexible Takeoff vs Derated Takeoff,5515
+3,Runway Conditions,5517
+4,Takeoff on Dry Runway,5517
+5,Description,5517
+5,Performance Calculation,5517
+4,Takeoff on Wet Runways,5519
+5,Descriptions,5519
+5,Performance Calculation,5519
+4,Takeoff on Contaminated Runway,5521
+5,Descriptions,5521
+5,Performance Calculation,5522
+5,Restrictions,5523
+3,Takeoff with MEL or CDL Item,5525
+4,Takeoff with MEL or CDL Item,5525
+3,Takeoff Recommendations,5527
+4,Takeoff Recommendations,5527
+2,In-Flight,5529
+3,In-Flight Performance Calculation,5529
+4,In-Flight Performance Calculation,5529
+3,All Engines Operative Operations,5531
+4,Climb,5531
+5,General,5531
+6,General,5531
+5,Climb Thrusts,5533
+6,Maximum Climb Thrust,5533
+4,Cruise,5535
+5,Speeds,5535
+6,Economic Mach Number (ECON Mach),5535
+6,Long Range Cruise Speed (LRC),5535
+6,Fixed Speed,5535
+6,Turbulence Speed,5535
+6,Maximum Speed,5536
+5,Altitude/Ceilings,5537
+6,Definitions,5537
+6,Altitude Optimization,5537
+4,Descent,5539
+5,General,5539
+4,Holding,5541
+5,General,5541
+3,One Engine Inoperative Operations,5543
+4,One Engine Inoperative Strategies,5543
+4,Long Range Cruise Speed,5543
+4,EO MAX Altitude,5543
+4,Holding,5543
+2,Landing,5545
+3,Landing Performance Calculation,5545
+4,General,5545
+4,Landing Parameters,5546
+3,Landing Speeds and Distances Definitions,5547
+4,Landing Speeds,5547
+4,Landing Distances Definitions,5548
+3,Runway Conditions,5551
+4,Dry Runway,5551
+4,Wet Runway,5551
+4,Contaminated Runway,5551
+4,Runway Condition Assessment Matrix for Landing,5554
+3,Dispatch Requirements,5557
+4,General,5557
+4,Dispatch on Dry Runway,5557
+4,Dispatch on Wet Runway,5557
+4,Dispatch on Contaminated Runway,5557
+4,Dispatch with MEL or CDL Item,5558
+4,In-Flight Landing Distance Crosscheck,5558
+4,ROW (if installed) Landing Distance Crosscheck,5558
+3,In-Flight Performance Assessment,5559
+4,General,5559
+4,Landing Performance without In-Flight Failure,5560
+4,Landing Performance following In-Flight Failure,5561
+4,ROW (if installed) Landing Distance Crosscheck,5562
