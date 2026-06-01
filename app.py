@@ -29,15 +29,25 @@ HTML_PAGE = """
     <div class="container">
         <div class="logout"><a href="/logout">Logout</a></div>
         <h1>Airbus Manual AI Study Assistant</h1>
-        <form method="POST">
+        <form method="POST" onsubmit="showLoading()">
             <textarea name="question" placeholder="Ask a question, for example: What is PTU?" required>{{ question }}</textarea>
-            <button type="submit">Ask Airbus AI</button>
+            <button type="submit" id="askButton">Ask Airbus AI</button>
+	<div id="loadingMessage" style="display:none; margin-top:15px; 	text-align:center; color:#0b5ed7; font-weight:bold;">
+    	Searching Airbus Manual...
+	</div>
         </form>
         {% if answer %}
         <div class="answer">{{ answer }}</div>
         {% endif %}
         <div class="note">Study support only. Always follow official training material and instructor guidance.</div>
     </div>
+<script>
+function showLoading() {
+    document.getElementById("askButton").disabled = true;
+    document.getElementById("askButton").innerText = "Please wait...";
+    document.getElementById("loadingMessage").style.display = "block";
+}
+</script>
 </body>
 </html>
 """
